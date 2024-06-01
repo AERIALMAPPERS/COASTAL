@@ -12403,7 +12403,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/G.Village Map /Sindhudurg/VENGURLA/MHARTALE/MHARTALE.dwg  ",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Sindhudurg/VENGURLA/MHARTALE/MHARTALE.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Sidhudurg/Vengurla/Mhartale.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
