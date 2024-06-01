@@ -1050,7 +1050,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/VASAI/WADIWALI/WADIWALI GEOREFERENCED FINAL.dwg ",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/VASAI/WADIWALI/WADIWALI.dwg",
                     "VillageMapKmlURL": " ./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Vasai/Wadiwali.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
