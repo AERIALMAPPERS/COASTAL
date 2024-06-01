@@ -1920,7 +1920,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Bhayandar": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -1947,7 +1947,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Chouk": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -1974,7 +1974,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Dongari": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2001,7 +2001,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Pali": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2028,7 +2028,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Morva": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2055,7 +2055,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Rai Murdha": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2082,7 +2082,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Tarandi": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2109,7 +2109,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Uttan": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
