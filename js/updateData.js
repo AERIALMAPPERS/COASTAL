@@ -856,7 +856,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Bhuigaon BK": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Vasai/BHUIGAON BK.dwg ",
-                    "chainageKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Vasai/Bhuggaon.kml",
+                    "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/BHUIGAON BK.kml",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
