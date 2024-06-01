@@ -882,7 +882,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Rangaon": {
                     "contourURL": " ",
-                    "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Vasai/BHUIGAON BK.dwg",
+                    "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Vasai/RANGAON.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/RANGAON.kml",
                     "ECWURL": " ",
                     "dsmURL": " ",
