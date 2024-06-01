@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Talasari/ZAI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/PALGHAR/Talasari/ZAI.kml",
-                    "ECWURL": "./data/kmz/ZAI.kml",
+                    "ECWURL": "./data/kmz/thorendfff.kml",
                     "dsmURL": "./data/kmz/ZAI.kml",
                     "dtmURL": "./data/kmz/thorendfff.kml",
                     "topoplanURL": " ./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Talasari/ZZZ.kml",
@@ -585,7 +585,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Mukkam": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Vasai/MUKKAM.dwg ",
-                    "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/MUKKAM.kml",   
+                    "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/MUKKAM.kml",
                     "chainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
@@ -1050,7 +1050,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/VASAI/WADIWALI/WADIWALI.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/VASAI/WADIWALI/WADIWALI.dwg ",
                     "VillageMapKmlURL": " ./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Vasai/Wadiwali.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -2148,7 +2148,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Bandra": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2175,7 +2175,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Danda": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2203,7 +2203,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2234,7 +2234,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2262,7 +2262,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2290,7 +2290,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2318,7 +2318,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2346,7 +2346,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2374,7 +2374,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2402,7 +2402,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2430,7 +2430,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2458,7 +2458,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2486,7 +2486,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2514,7 +2514,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2542,7 +2542,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2573,7 +2573,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2601,7 +2601,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2629,7 +2629,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2657,7 +2657,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2685,7 +2685,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2713,7 +2713,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2741,7 +2741,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2769,7 +2769,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2797,7 +2797,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2825,7 +2825,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2853,7 +2853,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2881,7 +2881,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2909,7 +2909,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2937,7 +2937,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2965,7 +2965,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -2993,7 +2993,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     // "dwgURL": " ",
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3027,7 +3027,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Targhar": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3052,8 +3052,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Ulawe": {
+                    "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3078,8 +3079,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Wahal": {
+                    "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3106,7 +3108,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Kharkopar": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3133,7 +3135,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Gavhan": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3160,7 +3162,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Nhava": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3190,7 +3192,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Gharapuri": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3217,7 +3219,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Juna Sheva": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3244,7 +3246,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Jaskhar": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3271,7 +3273,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Panje": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3298,7 +3300,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Funde": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3325,7 +3327,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Dongari": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3352,7 +3354,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Hanuman Koliwada": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3377,9 +3379,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Boripakhadi": {
-                      "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3406,12 +3408,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Ranwad": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/URAN/RANWAD/RANWAD.dwg ",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/URAN/RANWAD/RANWAD.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Uran/Ranwad.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -3433,7 +3435,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Kegaon(CT) ": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3460,7 +3462,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Nagaon": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3487,12 +3489,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Mhatwali": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/URAN/MHATAVALI/MHATAVALI.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/URAN/MHATAVALI/MHATAVALI.dwg ",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Uran/Mhatvali.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -3514,7 +3516,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Chanje (CT)": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3541,7 +3543,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Navin Sheva": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3568,7 +3570,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Bhendkhal": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3595,7 +3597,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Navghar(CT)": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3622,7 +3624,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Dhasakhosi": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3649,7 +3651,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Bandhpada": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3676,7 +3678,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Kacherpada": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3703,7 +3705,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Pirkone": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3730,7 +3732,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Sangpalekhar": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3757,7 +3759,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Govthane": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3784,7 +3786,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Aware": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3814,7 +3816,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "VitthalWadi": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3841,7 +3843,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Mothe Bhal": {
                     "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3865,9 +3867,10 @@ document.addEventListener("DOMContentLoaded", function () {
                     "PillerLocationURL": " ",
                     "YearWizeCoastlineURL": " ",
                 },
-                "Lakhola": {                    "contourURL": " ",
+                "Lakhola": {
+                    "contourURL": " ",
                     "chainageURL": " ",
-                    "chainageKmlURL": " ",
+                    "ChainageKmlURL": " ",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -3949,7 +3952,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Hashiware": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Alibag/HASHIWARE.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RAIGAD/Alibag/HASHIWARE.kml ",
                     "ECWURL": " ",
@@ -4030,7 +4033,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Milkatkhar": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Alibag/MIKATKHAR.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RAIGAD/Alibag/MIKATKHAR.kml",
                     "ECWURL": " ",
@@ -4057,7 +4060,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Belpada": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Alibag/BELPADA.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RAIGAD/Alibag/BELPADA.kml",
                     "ECWURL": " ",
@@ -4271,7 +4274,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "DGPSPointURL": " ",
                     "PillerLocationURL": " ",
                     "YearWizeCoastlineURL": " ",
-                },          
+                },
                 // "Murabe": {
                 //     "contourURL": " ",
                 //     "chainageURL": " ",
@@ -4361,7 +4364,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/NAVEDAR KOLGOAN.dwg ",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/NAVEDAR KOLGOAN.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Alibag/Navedar Kolgoan.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -4496,7 +4499,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/BAMANSURE.dwg",
+                    "VillageMapURL": " ./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/BAMANSURE.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Alibag/Bamansure.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -4658,7 +4661,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/VARSOLI.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/VARSOLI.dwg ",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Alibag/Varsoli.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -6067,7 +6070,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
             },
             //taluka8
-            "Shrivardhan": {         
+            "Shrivardhan": {
                 "Harvit": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Shrivardhan/HARVIL.dwg ",
@@ -6079,8 +6082,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     "VillageMapURL": " ./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/SHRIVARDHAN/HARVIL/HARVIT.dwg ",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Harvit.kml",
                     "APCURL": " ",
-                    "NPCURL": " ",    
-                    "UPCURL": " ",    
+                    "NPCURL": " ",
+                    "UPCURL": " ",
                     "VurnableCoastlineURL": " ",
                     "HighTideLineURL": " ",
                     "LowTideLineURL": " ",
@@ -6095,7 +6098,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "PillerLocationURL": " ",
                     "YearWizeCoastlineURL": " ",
                 },
-                          
+
                 "Kudgaon": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Shrivardhan/KUDGAON.dwg ",
@@ -6671,7 +6674,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Kalinje.kml",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/SHRIVARDHAN/KALINJE/KALINJE.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Kalinje.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -8007,7 +8010,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": " ./data/VILLAGE MAP/VILLAGE MAP DWG/Ratnagiri/GUHAGAR/KATALWADI TF ANJANWEL/KATALWADI TF ANJANVEL.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Ratnagiri/GUHAGAR/KIRTANWADI/KIRTANVADI.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Ratnagiri/Guhagar/Kirtanvadi.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
@@ -8378,7 +8381,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Tavasal": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Guhaghar/TAVASAL.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Guhaghar/TAVASAL.kml ",
                     "ECWURL": " ",
@@ -8408,7 +8411,7 @@ document.addEventListener("DOMContentLoaded", function () {
             //taluka4
             "Ratnagiri": {
                 "Sakhar Mohalla": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/SAKHAR MOHALLA.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/SAKHAR MOHALLA.kml",
                     "ECWURL": " ",
@@ -8435,7 +8438,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Jaigad": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/JAIGAD.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/JAIGAD.kml",
                     "ECWURL": " ",
@@ -8489,7 +8492,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Sandelavagan": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/SANDELAVAGAN.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/SANDELAVAGAN.kml ",
                     "ECWURL": " ",
@@ -8516,7 +8519,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Sandkhol": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/SANDKHOL.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/SANDKHOL.kml",
                     "ECWURL": " ",
@@ -8543,7 +8546,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kachare": {
-                 "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/KACHARE.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/KACHARE.kml",
                     "ECWURL": " ",
@@ -8570,7 +8573,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Chaperi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/CHAPERI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/CHAPERI.kml",
                     "ECWURL": " ",
@@ -8597,7 +8600,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Undi": {
-                  "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/UNDI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/UNDI.kml",
                     "ECWURL": " ",
@@ -8624,7 +8627,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Reel": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/REEL.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/REEL.kml ",
                     "ECWURL": " ",
@@ -8678,7 +8681,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Bhandarwada": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/BHANDARWADA.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/BHANDARWADA.kml",
                     "ECWURL": " ",
@@ -8705,17 +8708,17 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kunbiwadi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/KUNBIWADI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/KUNBIWADI.kml ",
-                    "ECWURL": " ",    
-                    "dsmURL": " ",      
-                    "dtmURL": " ",  
+                    "ECWURL": " ",
+                    "dsmURL": " ",
+                    "dtmURL": " ",
                     "topoplanURL": " ",
                     "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Ratnagiri/RATNAGIRI/KUNBIWADI/KUNBI WADI.dwg ",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Ratnagiri/Ratnagiri/Kunbi Wadi.kml ",
-                    "APCURL": " ",  
-                    "NPCURL": " ",     
+                    "APCURL": " ",
+                    "NPCURL": " ",
                     "UPCURL": " ",
                     "VurnableCoastlineURL": " ",
                     "HighTideLineURL": " ",
@@ -9002,7 +9005,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Are": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/ARE.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/ARE.kml ",
                     "ECWURL": " ",
@@ -9056,7 +9059,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Basani": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/BASANI.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/BASANI.kml",
                     "ECWURL": " ",
@@ -9164,7 +9167,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kalbadevi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/KALBADEVI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/KALBADEVI.kml",
                     "ECWURL": " ",
@@ -9191,7 +9194,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Shirgaon": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/SHIRGAON.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/SHIRGAON.kml",
                     "ECWURL": " ",
@@ -9326,7 +9329,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kille ratnagiri": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/RATNAGIRI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/RATNAGIRI.kml ",
                     "ECWURL": " ",
@@ -9353,7 +9356,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Karle": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/KARLE.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/KARLE.kml",
                     "ECWURL": " ",
@@ -9380,7 +9383,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Bhatye": {
-                      "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/BHATYE.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/BHATYE.kml",
                     "ECWURL": " ",
@@ -9407,7 +9410,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Phansop": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/PHANSOP.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/PHANSOP.kml ",
                     "ECWURL": " ",
@@ -9434,7 +9437,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kasop": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/KASOP.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/KASOP.kml",
                     "ECWURL": " ",
@@ -9461,7 +9464,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Wayangani": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/WAYANGANI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/WAYANGANI.kml",
                     "ECWURL": " ",
@@ -9569,7 +9572,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Pavas": {
-                  "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/PAVAS.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/PAVAS.kml",
                     "ECWURL": " ",
@@ -9596,7 +9599,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Ganespule": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/GANESH PULE.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/GANESH PULE.kml",
                     "ECWURL": " ",
@@ -9623,7 +9626,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Thikan Soman": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/THIKAN SOMAN.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/THIKAN SOMAN.kml ",
                     "ECWURL": " ",
@@ -9677,7 +9680,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Mervi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/MERVI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/MERVI.kml",
                     "ECWURL": " ",
@@ -9758,7 +9761,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Bhandarwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/BHANDARWADI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/BHANDARWADI.kml ",
                     "ECWURL": " ",
@@ -9785,7 +9788,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Gaonkhadi": {
-                      "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Ratnagiri/GAONKHADI.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Ratnagiri/GAONKHADI.kml",
                     "ECWURL": " ",
@@ -9815,7 +9818,7 @@ document.addEventListener("DOMContentLoaded", function () {
             //taluka5
             "Rajapur": {
                 "Varachiwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/VARACHIWADI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/VARACHIWADI.kml ",
                     "ECWURL": " ",
@@ -9842,7 +9845,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Avali Chiwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/AVALI CHIWADI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/AVALI CHIWADI.kml",
                     "ECWURL": " ",
@@ -9896,7 +9899,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Wadavetye": {
-                      "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/WADAVETYE.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/WADAVETYE.kml ",
                     "ECWURL": " ",
@@ -9923,7 +9926,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Wadativare": {
-                      "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/WADATIVARE.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/WADATIVARE.kml ",
                     "ECWURL": " ",
@@ -9950,7 +9953,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Nate": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/NATE.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/NATE.kml",
                     "ECWURL": " ",
@@ -10004,7 +10007,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Yashvantgad": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/YASHWANTAGAD.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/YASHWANTGAD.kml ",
                     "ECWURL": " ",
@@ -10031,7 +10034,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Anantwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/ANANTWADI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/ANANTWADI.kml ",
                     "ECWURL": " ",
@@ -10085,7 +10088,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Holi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/HOLI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/HOLI.kml ",
                     "ECWURL": " ",
@@ -10139,7 +10142,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Mithgavane": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/MITHGAVANE.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/MITHGAVANE.kml",
                     "ECWURL": " ",
@@ -10166,7 +10169,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Varchiwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/VARACHIWADI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/VARACHIWADI.kml ",
                     "ECWURL": " ",
@@ -10193,7 +10196,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Madban": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/MADBAN.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/MADBAN.kml",
                     "ECWURL": " ",
@@ -10220,7 +10223,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Bakale": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Rajapur/BAKALE.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Rajapur/BAKALE.kml",
                     "ECWURL": " ",
@@ -10335,7 +10338,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Rameshwar": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/RAMESHWAR.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/RAMESHWAR.kml ",
                     "ECWURL": " ",
@@ -10362,7 +10365,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Girye": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/GIRYE.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/GIRYE.kml",
                     "ECWURL": " ",
@@ -10497,7 +10500,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Devgad": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/DEVGAD.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/DEVGAD.kml ",
                     "ECWURL": " ",
@@ -10686,7 +10689,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Tambaldeg": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/TAMBALDEG.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/TAMBALDEG.kml",
                     "ECWURL": " ",
@@ -10713,7 +10716,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Hindale": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/HINDALE.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/HINDALE.kml ",
                     "ECWURL": " ",
@@ -10740,7 +10743,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Morve": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/MORVE.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/MORVE.kml ",
                     "ECWURL": " ",
@@ -10767,7 +10770,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Munage": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/MUNAGE.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/MUNAGE.kml",
                     "ECWURL": " ",
@@ -10794,7 +10797,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Aadbandar": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Devgad/AADBANDAR.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Devgad/AADBANDAR.kml",
                     "ECWURL": " ",
@@ -10824,7 +10827,7 @@ document.addEventListener("DOMContentLoaded", function () {
             //taluka2
             "Malwan": {
                 "Gaudwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/GAUDWADI.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/GAUDWADI.kml",
                     "ECWURL": " ",
@@ -10959,7 +10962,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Tondavali": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/TONDIWALI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/TONDIWALI.kml ",
                     "ECWURL": " ",
@@ -11067,7 +11070,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Ozar": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/OZAR.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/OZAR.kml",
                     "ECWURL": " ",
@@ -11094,7 +11097,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Revandi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/REVANDI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/REVANDI.kml ",
                     "ECWURL": " ",
@@ -11205,7 +11208,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 //DWG Not
                 "Malwan(MCI)": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/MALWAN(MCI).dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/MALWAN(MCI).kml",
                     "ECWURL": " ",
@@ -11258,7 +11261,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Wayari": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/WAYRI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/WAYRI.kml ",
                     "ECWURL": " ",
@@ -11339,7 +11342,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Tarkali": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/TARKARLI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/TARKARLI.kml ",
                     "ECWURL": " ",
@@ -11450,7 +11453,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Shriramwadi": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/SHRIRAMWADI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/SHRIRAMWADI.kml",
                     "ECWURL": " ",
@@ -11531,7 +11534,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Mayana": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/MAYANA.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/MAYAN.kml ",
                     "ECWURL": " ",
@@ -11558,7 +11561,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Khavene": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/KHAVANE.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/KHAVANE.kml ",
                     "ECWURL": " ",
@@ -11585,7 +11588,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Malai": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/MALAI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/MALAI.kml ",
                     "ECWURL": " ",
@@ -11612,7 +11615,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kelus": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/KELUS.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/KELUS.kml ",
                     "ECWURL": " ",
@@ -11693,7 +11696,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Wayangani": {
-                  "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/WAYANGANI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/WAYANGANI.kml ",
                     "ECWURL": " ",
@@ -11747,7 +11750,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 //DWG Not               
-                "Vengurla": {                          
+                "Vengurla": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/VENGURLA(MCI).dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/VENGURLA(MCI).kml ",
@@ -11802,7 +11805,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Ubhadanda": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/UBHADANDA.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/UBHADANDA.kml",
                     "ECWURL": " ",
@@ -11856,7 +11859,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Vagheshwar": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/VAGHESHWAR.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/VAGHESHWAR.kml",
                     "ECWURL": " ",
@@ -11883,7 +11886,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Namas": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/NAMAS.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/NAMAS.kml ",
                     "ECWURL": " ",
@@ -11910,7 +11913,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Siddhawadi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/SIDDHAWADI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/SIDDHAWADI.kml ",
                     "ECWURL": " ",
@@ -11937,7 +11940,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Adari": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/ADARI.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/ADARI.kml ",
                     "ECWURL": " ",
@@ -11964,7 +11967,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kamblewadi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/KAMBLEWADI.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/KAMBLEWADI.kml",
                     "ECWURL": " ",
@@ -11991,7 +11994,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Sukhatanbag": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/SUKHATANBAG.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/SUKHATANBAG.kml ",
                     "ECWURL": " ",
@@ -12099,7 +12102,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Muth": {
-                     "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/MUTH.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/MUTH.kml",
                     "ECWURL": " ",
@@ -12153,7 +12156,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Tank": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/TANK.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/TANK.kml ",
                     "ECWURL": " ",
@@ -12234,7 +12237,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Sagartirtha": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/SAGARTIRTHA.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/SAGARTIRTH.kml ",
                     "ECWURL": " ",
@@ -12315,7 +12318,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Khalchikar": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/KHALCHIKAR.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/KHALCHIKAR.kml ",
                     "ECWURL": " ",
@@ -12342,7 +12345,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Varachikar": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/VARCHIKER.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/VARCHIKER.kml ",
                     "ECWURL": " ",
@@ -12369,7 +12372,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Sukhalbhat": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/SUKHALBHAT.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/SUKHALBHAT.kml",
                     "ECWURL": " ",
@@ -12423,7 +12426,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Redi": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/REDI.dwg ",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/REDI.kml",
                     "ECWURL": " ",
@@ -12477,7 +12480,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Kanyale": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/KANYALE.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/KANYALE.kml ",
                     "ECWURL": " ",
@@ -12504,7 +12507,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "YearWizeCoastlineURL": " ",
                 },
                 "Gavatale": {
-                   "contourURL": " ",
+                    "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Vengurla/GAVATALE.dwg ",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Vengurla/GAVATALE.kml ",
                     "ECWURL": " ",
@@ -12727,57 +12730,57 @@ document.addEventListener("DOMContentLoaded", function () {
             // Function to add KML layer to map
             // Function to add KML layer to map
             // Function to add KML layer to map
-// Function to add KML layer to map
-let currentKMLLayer = null;
+            // Function to add KML layer to map
+            let currentKMLLayer = null;
 
-function addKMLLayer(kmlURL) {
-    fetch(kmlURL)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Failed to fetch KML file');
-            }
-            return response.text();
-        })
-        .then(kmlText => {
-            // Parse KML text and add to map using omnivore
-            var kmlLayer = omnivore.kml(kmlURL)
-                .on('ready', function() {
-                    map.fitBounds(kmlLayer.getBounds());
-
-                    kmlLayer.eachLayer(function(layer) {
-                        if (layer.feature && layer.feature.properties && layer.feature.properties.name) {
-                            var latlng = layer.getLatLng();
-                            var text = layer.feature.properties.name || "Default Text"; // Adjust based on your KML structure
-
-                            // Add label directly
-                            L.marker(latlng, {
-                                icon: L.divIcon({
-                                    className: 'text-label',   // Apply custom CSS class for styling
-                                    html: text,
-                                    iconSize: [0, 0]       // Adjust size as needed
-                                })
-                            }).addTo(map);
+            function addKMLLayer(kmlURL) {
+                fetch(kmlURL)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Failed to fetch KML file');
                         }
-                    });
-                })
-                .addTo(map);
+                        return response.text();
+                    })
+                    .then(kmlText => {
+                        // Parse KML text and add to map using omnivore
+                        var kmlLayer = omnivore.kml(kmlURL)
+                            .on('ready', function () {
+                                map.fitBounds(kmlLayer.getBounds());
 
-            // Store the current KML layer
-            currentKMLLayer = kmlLayer;
-        })
-        .catch(error => {
-            console.error('Error loading KML file:', error);
-            alert('Error loading KML file');
-        });
-}
+                                kmlLayer.eachLayer(function (layer) {
+                                    if (layer.feature && layer.feature.properties && layer.feature.properties.name) {
+                                        var latlng = layer.getLatLng();
+                                        var text = layer.feature.properties.name || "Default Text"; // Adjust based on your KML structure
+
+                                        // Add label directly
+                                        L.marker(latlng, {
+                                            icon: L.divIcon({
+                                                className: 'text-label',   // Apply custom CSS class for styling
+                                                html: text,
+                                                iconSize: [0, 0]       // Adjust size as needed
+                                            })
+                                        }).addTo(map);
+                                    }
+                                });
+                            })
+                            .addTo(map);
+
+                        // Store the current KML layer
+                        currentKMLLayer = kmlLayer;
+                    })
+                    .catch(error => {
+                        console.error('Error loading KML file:', error);
+                        alert('Error loading KML file');
+                    });
+            }
             // Example usage:
             // addKMLLayer('path/to/your.kml');
-            
+
             // Example usage:
             // addKMLLayer('path/to/your.kml');
-            
+
             // addKMLLayer('path/to/your.kml');
-        
+
             // Event listener for show button
             showButton.addEventListener('click', function (event) {
                 event.preventDefault();
@@ -12797,25 +12800,25 @@ function addKMLLayer(kmlURL) {
                     const checkboxes = [
                         { checkbox: 'checkbox1', url: 'chainageKmlURL' },
                         { checkbox: 'checkbox2', url: 'ECWURL' },
-                        { checkbox: 'checkbox3', url: 'DTMURL' },
-                        { checkbox: 'checkbox4', url: 'DSMURL' },
-                        { checkbox: 'checkbox5', url: 'ContourURL' },
-                        { checkbox: 'checkbox6', url: 'TopoplanURL' },
+                        { checkbox: 'checkbox3', url: 'dtmURL' },
+                        { checkbox: 'checkbox4', url: 'dsmURL' },
+                        { checkbox: 'checkbox5', url: 'contourURL' },
+                        { checkbox: 'checkbox6', url: 'topoplanURL' },
                         { checkbox: 'checkbox7', url: 'VillageMapKmlURL' },
                         { checkbox: 'checkbox8', url: 'APCURL' },
                         { checkbox: 'checkbox9', url: 'NPCURL' },
                         { checkbox: 'checkbox10', url: 'UPCURL' },
-                        { checkbox: 'checkbox11', url: 'VrunableCoastlineURL' },
+                        { checkbox: 'checkbox11', url: 'VurnableCoastlineURL' },
                         { checkbox: 'checkbox12', url: 'HighTideLineURL' },
                         { checkbox: 'checkbox13', url: 'LowTideLineURL' },
                         { checkbox: 'checkbox14', url: 'BundURL' },
                         { checkbox: 'checkbox15', url: 'SeawallURL' },
                         { checkbox: 'checkbox16', url: 'HarbourURL' },
                         { checkbox: 'checkbox17', url: 'HazardLineURL' },
-                        { checkbox: 'checkbox18', url: 'SanddaneMapURL' },
+                        { checkbox: 'checkbox18', url: 'SanddaneURL' },
                         { checkbox: 'checkbox19', url: 'EcosensativeZoneURL' },
                         { checkbox: 'checkbox20', url: 'MangroveBufferZoneURL' },
-                        { checkbox: 'checkbox21', url: 'DGPSPointCoastlineURL' },
+                        { checkbox: 'checkbox21', url: 'DGPSPointURL' },
                         { checkbox: 'checkbox22', url: 'PillerLocationURL' },
                         { checkbox: 'checkbox23', url: 'YearWizeCoastlineURL' }
                     ];
@@ -12828,7 +12831,7 @@ function addKMLLayer(kmlURL) {
                             if (kmlURL) {
                                 addKMLLayer(kmlURL);
                             } else {
-                                alert(`${item.url} is not available. Please select another checkbox.`);
+                                alert(`${item.url} is not Available. Please select another Checkbox.`);
                             }
                         }
                     });
