@@ -1372,7 +1372,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Alewadi": {
                     "contourURL": " ",
-                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Palghar/NAWAPUR.dwg ",
+                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Palghar/ALEWADI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Palghar/ALEWADI.kml ",
                     "ECWURL": " ",
                     "dsmURL": " ",
@@ -1399,7 +1399,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Gundavali": {
                     "contourURL": " ",
-                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Palghar/GUNDALI.dwg ",
+                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Palghar/GUNDAVALI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Palghar/GUNDALI.kml ",
                     "ECWURL": " ",
                     "dsmURL": " ",
