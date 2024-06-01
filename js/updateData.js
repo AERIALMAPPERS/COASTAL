@@ -5141,7 +5141,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Bhoighar": {
                     "contourURL": " ",
-                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Murud/BHOIGHAR.dwg ",
+                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RAIGAD/Murud/BHIOGHAR.dwg",
                     "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/RAIGAD/Murud/BHOIGHAR.kml",
                     "ECWURL": " ",
                     "dsmURL": " ",
