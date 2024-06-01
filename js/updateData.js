@@ -285,7 +285,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Dhumket": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Dahanu/DHUMKET.dwg ",
-                    "chainageKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Dhanu/Dhumket.kml",
+                    "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Dahanu/DHUMKET.kml",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
