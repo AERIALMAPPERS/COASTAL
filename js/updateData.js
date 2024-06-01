@@ -6672,7 +6672,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dtmURL": " ",
                     "topoplanURL": " ",
                     "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Kalinje.kml",
-                    "VillageMapKmlURL": "./data/G.Village KML/Raigad/Shrivardhan/Kalinje.kml ",
+                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Kalinje.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
                     "UPCURL": " ",
