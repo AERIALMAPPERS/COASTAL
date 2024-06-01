@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 "Bordi": {
                     "contourURL": " ",
-                    "chainageURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/DAHANU/BORDI.dwg",
+                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Dahanu/BORDI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Dahanu/BORDI.kml",
                     "ECWURL": "./data/ecw/Dhanu.gmw",
                     "dsmURL": "./data/kmz/thorendfff.kml",
