@@ -1486,7 +1486,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/PALGHAR/SHIRGOAN- SATPATI.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/PALGHAR/SHIRGAON- SATPATI.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Palghar/Shirgaon-Satpati.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
