@@ -7134,7 +7134,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Murdi": {
                     "contourURL": " ",
-                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Dapoli/MURDI.dwgS ",
+                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/RATNAGIRI/Dapoli/MURDI.dwg",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/RATNAGIRI/Dapoli/MURDI.kml ",
                     "ECWURL": " ",
                     "dsmURL": " ",
