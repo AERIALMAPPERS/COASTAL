@@ -5500,7 +5500,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": " ./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/MURUD/MURUD RURAL.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/MURUD/MURUD.dwg",
                     "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Murud/Murud.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
