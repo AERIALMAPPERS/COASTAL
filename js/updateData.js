@@ -11286,7 +11286,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Kalethar": {
                     "contourURL": " ",
-                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/KALETHAR.",
+                    "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/SINDHUDURG/Malvan/KALETHAR.DWG",
                     "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/SINDHUDURG/Malvan/KALETHAR.kml ",
                     "ECWURL": " ",
                     "dsmURL": " ",
