@@ -1077,7 +1077,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dsmURL": " ",
                     "dtmURL": " ",
                     "topoplanURL": " ",
-                    "VillageMapURL": "./data/CHAINAGE/CHAINAGE DWG/PAGHAR/Vasai/PANJU/PANJU.dwg",
+                    "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/VASAI/PANJU/PANJU.dwg",
                     "VillageMapKmlURL": " ./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Vasai/Panju.kml ",
                     "APCURL": " ",
                     "NPCURL": " ",
