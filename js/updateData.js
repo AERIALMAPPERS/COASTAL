@@ -964,7 +964,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Sandor(CT)": {
                     "contourURL": " ",
                     "chainageURL": "./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Vasai/SANDOR (CT).dwg ",
-                    "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/SANDOR (CT).kml",
+                    "chainageKmlURL": " ./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/SANDOR(CT).kml",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
@@ -991,7 +991,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Vasai(MCI)": {
                     "contourURL": " ",
                     "chainageURL": " ./data/CHAINAGE/CHAINAGE DWG/PALGHAR/Vasai/VASAI (MCI).dwg",
-                    "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/VASAI (MCI).kml ",
+                    "chainageKmlURL": "./data/CHAINAGE/CHAINAGE KML/PALGHAR/Vasai/VASAI(MCI).kml",
                     "ECWURL": " ",
                     "dsmURL": " ",
                     "dtmURL": " ",
