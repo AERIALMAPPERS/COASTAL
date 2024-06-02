@@ -1243,7 +1243,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dtmURL": " ",
                     "topoplanURL": " ",
                     "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/PALGHAR/POPHARAN.dwg",
-                    "VillageMapKmlURL": "./data/Village Map Kml/Palghar/Palghar/Popharan.kml ",
+                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Palghar/Popharan.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
                     "UPCURL": " ",
