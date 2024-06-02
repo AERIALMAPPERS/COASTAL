@@ -6594,7 +6594,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dtmURL": " ",
                     "topoplanURL": " ",
                     "VillageMapURL": " ./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/SHRIVARDHAN/WALWATI KH/WALWATI KH.dwg ",
-                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Walwati KH..kml",
+                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Shrivardhan/Walwati Kh.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
                     "UPCURL": " ",
