@@ -4581,7 +4581,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dtmURL": " ",
                     "topoplanURL": " ",
                     "VillageMapURL": "./data/VILLAGE MAP/VILLAGE MAP DWG/Raigad/ALIBAG/NAVAGAON BORIS.dwg ",
-                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Alibag/Navagaon.kml ",
+                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/Raigad/Alibag/Navagaon Boris.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
                     "UPCURL": " ",
