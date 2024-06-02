@@ -916,7 +916,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dtmURL": " ",
                     "topoplanURL": " ",
                     "VillageMapURL": " ./data/VILLAGE MAP/VILLAGE MAP DWG/Palghar/VASAI/KAULAR BK/KAULAR BK.dwg ",
-                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Vasai/Kaular BK..kml ",
+                    "VillageMapKmlURL": "./data/VILLAGE MAP/VILLAGE MAP KML/PALGHAR/Vasai/Kaular Bk.kml",
                     "APCURL": " ",
                     "NPCURL": " ",
                     "UPCURL": " ",
