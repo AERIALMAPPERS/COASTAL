@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:globalmapper="https://www.bluemarblegeo.com/globalmapper">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="line1">
+    <LineStyle>
+      <color>FF999900</color>
+      <width>1</width>
+    </LineStyle>
+    <IconStyle><Icon></Icon></IconStyle>
+  </Style>
+  <Style id="line2">
+    <LineStyle>
+      <color>FFFF00FF</color>
+      <width>1</width>
+    </LineStyle>
+    <IconStyle><Icon></Icon></IconStyle>
+  </Style>
+  <Style id="point1">
+    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
+    <LabelStyle><color>ff333333</color></LabelStyle>
+  </Style>
+  <Style id="point2">
+    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
+    <LabelStyle><color>ffff00ff</color></LabelStyle>
+  </Style>
+  <Style id="point3">
+    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
+    <LabelStyle><color>ffff00ff</color></LabelStyle>
+  </Style>
+  <Style id="point4">
+    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
+    <LabelStyle><color>ffff00ff</color></LabelStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description>VILLAGE NAME</description>
+      <name>THAKURWADI</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <coordinates>72.726065869,20.012125417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CSMark</description>
+      <name>PA-CH16000.00 M</name>
+      <styleUrl>#point2</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <coordinates>72.719400124,20.007748815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CSMark</description>
+      <name>PA-CH16100.00 M</name>
+      <styleUrl>#point3</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <coordinates>72.719574341,20.006860925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CSMark</description>
+      <name>PA-CH16200.00 M</name>
+      <styleUrl>#point4</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <coordinates>72.719771588,20.005958989,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Line Features</name>
+    <description>Line Features</description>
+    <Placemark>
+      <description>CS</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.720818515,20.007997473,0
+          72.719409517,20.007750462,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>CS</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.720992725,20.007109581,0
+          72.719583735,20.006862571,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>CS</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.721182566,20.006242767,0
+          72.719780932,20.005960869,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>0</description>
+      <styleUrl>#line2</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.719894456,20.008239664,0
+          72.721193787,20.008309789,0
+          72.721499358,20.008453610,0
+          72.723028548,20.008884977,0
+          72.723029310,20.009318307,0
+          72.724099816,20.009605219,0
+          72.724711556,20.009965435,0
+          72.724712195,20.010326615,0
+          72.724865469,20.010543255,0
+          72.725018488,20.010615163,0
+          72.725325038,20.011048009,0
+          72.725325422,20.011264674,0
+          72.725096098,20.011337403,0
+          72.725020278,20.011626555,0
+          72.725326830,20.012059401,0
+          72.726090604,20.012058190,0
+          72.726167677,20.012346667,0
+          72.726584230,20.012382644,0
+          72.727010017,20.013212424,0
+          72.727010531,20.013501022,0
+          72.727156982,20.013721576,0
+          72.727774055,20.013355506,0
+          72.728079584,20.013210718,0
+          72.728538295,20.013354285,0
+          72.728844600,20.013642827,0
+          72.729303054,20.013642092,0
+          72.729303313,20.013786391,0
+          72.729495467,20.013848206,0
+          72.729456497,20.014075178,0
+          72.729151166,20.014075667,0
+          72.729151425,20.014219967,0
+          72.728692971,20.014220701,0
+          72.728540336,20.014365895,0
+          72.728693488,20.014509733,0
+          72.728693747,20.014654032,0
+          72.728999597,20.014942574,0
+          72.729610919,20.014797295,0
+          72.729612087,20.015447074,0
+          72.729459221,20.015591836,0
+          72.729230350,20.015664569,0
+          72.729077325,20.015592448,0
+          72.728847966,20.015520449,0
+          72.728390053,20.015954730,0
+          72.728541496,20.016100589,0
+          72.728952319,20.015719519,0
+          72.729306943,20.015808746,0
+          72.729918849,20.016241096,0
+          72.730072494,20.016529882,0
+          72.730073144,20.016891063,0
+          72.729998009,20.017685699,0
+          72.730533558,20.017973871,0
+          72.730991764,20.017828400,0
+          72.731603880,20.018116445,0
+          72.732138420,20.017971282,0
+          72.732979543,20.018258519,0
+          72.733437354,20.017896809,0
+          72.734048588,20.017823448,0
+          72.734965750,20.017821952,0
+          72.734963901,20.016810988,0
+          72.735116305,20.016666006,0
+          72.735575299,20.016954288,0
+          72.737104353,20.017240811,0
+          72.737407825,20.016228909,0
+          72.737406492,20.015506543,0
+          72.736795098,20.015363250,0
+          72.736487444,20.014352788,0
+          72.736027393,20.013486442,0
+          72.734957819,20.013488196,0
+          72.734193312,20.013345145,0
+          72.733123150,20.013274739,0
+          72.732664828,20.013347633,0
+          72.732358253,20.012914798,0
+          72.730367613,20.010606620,0
+          72.729756047,20.010607605,0
+          72.728762179,20.010248018,0
+          72.727767600,20.009744129,0
+          72.726697541,20.009456803,0
+          72.726239358,20.009601831,0
+          72.726085211,20.009024446,0
+          72.725779121,20.008591600,0
+          72.725778351,20.008158270,0
+          72.725471805,20.007725425,0
+          72.725012089,20.007003791,0
+          72.723941086,20.006427420,0
+          72.723023971,20.006284567,0
+          72.720425545,20.005999605,0
+          72.719894456,20.008239664,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
