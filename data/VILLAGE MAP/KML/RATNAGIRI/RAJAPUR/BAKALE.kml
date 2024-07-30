@@ -58,13 +58,6 @@
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
   </Style>
-  <Style id="line9">
-    <LineStyle>
-      <color>FF0000FF</color>
-      <width>1</width>
-    </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
-  </Style>
   <Style id="point1">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
   </Style>
@@ -326,27 +319,6 @@
   <Style id="point87">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
   </Style>
-  <Style id="point88">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point89">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point90">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point91">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point92">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point93">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point94">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
   <Folder>
     <name>Point Features</name>
     <description>Point Features</description>
@@ -362,7 +334,7 @@
     </Placemark>
     <Placemark>
       <description>TEXT_MAPOUT</description>
-      <name>MITHGAVNE CHI SHIV</name>
+      <name>MITHGAVNECHI SHIV</name>
       <styleUrl>#point2</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -392,38 +364,8 @@
     </Placemark>
     <Placemark>
       <description>TEXT_MAPOUT</description>
-      <name>MOUJE</name>
+      <name>ANSURYA CHI SHIV</name>
       <styleUrl>#point5</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.363950846,16.570377817,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
-      <name>MOUJE</name>
-      <styleUrl>#point6</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.359981701,16.567680298,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
-      <name>ANSURYA CHI SHIV</name>
-      <styleUrl>#point7</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.361049963,16.567721963,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
-      <name>ANSURYA CHI SHIV</name>
-      <styleUrl>#point8</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -432,58 +374,18 @@
     </Placemark>
     <Placemark>
       <description>TEXT_MAPOUT</description>
-      <name>MOUJE</name>
-      <styleUrl>#point9</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.356073642,16.554984302,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
-      <name>MOUJE</name>
-      <styleUrl>#point10</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.345557999,16.556122407,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
       <name>SAGRYA CHI SHIV</name>
-      <styleUrl>#point11</styleUrl>
+      <styleUrl>#point6</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.348410429,16.556121563,0</coordinates>
+        <coordinates>73.347439991,16.555858282,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <description>TEXT_MAPOUT</description>
-      <name>KITIVIJAYDURG CHI SHIV</name>
-      <styleUrl>#point12</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.331621333,16.560152871,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
-      <name>CHI SHIV</name>
-      <styleUrl>#point13</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.336924484,16.554426559,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>TEXT_MAPOUT</description>
-      <name>GHAIRAVIJAYDURG</name>
-      <styleUrl>#point14</styleUrl>
+      <name>GHAIRA VIJAYDURGCHI SHIV</name>
+      <styleUrl>#point7</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -493,7 +395,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>1</name>
-      <styleUrl>#point15</styleUrl>
+      <styleUrl>#point8</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -503,7 +405,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>2</name>
-      <styleUrl>#point16</styleUrl>
+      <styleUrl>#point9</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -513,7 +415,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>3</name>
-      <styleUrl>#point17</styleUrl>
+      <styleUrl>#point10</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -523,7 +425,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>4</name>
-      <styleUrl>#point18</styleUrl>
+      <styleUrl>#point11</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -533,7 +435,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>5</name>
-      <styleUrl>#point19</styleUrl>
+      <styleUrl>#point12</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -543,7 +445,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>6</name>
-      <styleUrl>#point20</styleUrl>
+      <styleUrl>#point13</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -553,7 +455,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>7</name>
-      <styleUrl>#point21</styleUrl>
+      <styleUrl>#point14</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -563,7 +465,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>8</name>
-      <styleUrl>#point22</styleUrl>
+      <styleUrl>#point15</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -573,7 +475,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>9</name>
-      <styleUrl>#point23</styleUrl>
+      <styleUrl>#point16</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -583,7 +485,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>10</name>
-      <styleUrl>#point24</styleUrl>
+      <styleUrl>#point17</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -593,7 +495,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>11</name>
-      <styleUrl>#point25</styleUrl>
+      <styleUrl>#point18</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -603,7 +505,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>12</name>
-      <styleUrl>#point26</styleUrl>
+      <styleUrl>#point19</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -613,7 +515,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>13</name>
-      <styleUrl>#point27</styleUrl>
+      <styleUrl>#point20</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -623,7 +525,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>14</name>
-      <styleUrl>#point28</styleUrl>
+      <styleUrl>#point21</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -633,7 +535,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>15</name>
-      <styleUrl>#point29</styleUrl>
+      <styleUrl>#point22</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -643,7 +545,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>16</name>
-      <styleUrl>#point30</styleUrl>
+      <styleUrl>#point23</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -653,7 +555,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>17</name>
-      <styleUrl>#point31</styleUrl>
+      <styleUrl>#point24</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -663,7 +565,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>18</name>
-      <styleUrl>#point32</styleUrl>
+      <styleUrl>#point25</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -673,7 +575,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>19</name>
-      <styleUrl>#point33</styleUrl>
+      <styleUrl>#point26</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -683,7 +585,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>20</name>
-      <styleUrl>#point34</styleUrl>
+      <styleUrl>#point27</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -693,7 +595,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>21</name>
-      <styleUrl>#point35</styleUrl>
+      <styleUrl>#point28</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -703,7 +605,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>22</name>
-      <styleUrl>#point36</styleUrl>
+      <styleUrl>#point29</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -713,7 +615,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>23</name>
-      <styleUrl>#point37</styleUrl>
+      <styleUrl>#point30</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -723,7 +625,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>24</name>
-      <styleUrl>#point38</styleUrl>
+      <styleUrl>#point31</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -733,7 +635,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>25</name>
-      <styleUrl>#point39</styleUrl>
+      <styleUrl>#point32</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -743,7 +645,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name><![CDATA[26@v]]></name>
-      <styleUrl>#point40</styleUrl>
+      <styleUrl>#point33</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -753,7 +655,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name><![CDATA[26@c]]></name>
-      <styleUrl>#point41</styleUrl>
+      <styleUrl>#point34</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -763,7 +665,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>27</name>
-      <styleUrl>#point42</styleUrl>
+      <styleUrl>#point35</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -773,7 +675,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>29</name>
-      <styleUrl>#point43</styleUrl>
+      <styleUrl>#point36</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -783,7 +685,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>30</name>
-      <styleUrl>#point44</styleUrl>
+      <styleUrl>#point37</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -793,7 +695,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>31</name>
-      <styleUrl>#point45</styleUrl>
+      <styleUrl>#point38</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -803,7 +705,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>32</name>
-      <styleUrl>#point46</styleUrl>
+      <styleUrl>#point39</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -813,7 +715,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>33</name>
-      <styleUrl>#point47</styleUrl>
+      <styleUrl>#point40</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -823,7 +725,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>34</name>
-      <styleUrl>#point48</styleUrl>
+      <styleUrl>#point41</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -833,7 +735,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>35</name>
-      <styleUrl>#point49</styleUrl>
+      <styleUrl>#point42</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -843,7 +745,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>36</name>
-      <styleUrl>#point50</styleUrl>
+      <styleUrl>#point43</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -853,7 +755,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>37</name>
-      <styleUrl>#point51</styleUrl>
+      <styleUrl>#point44</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -863,7 +765,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>38</name>
-      <styleUrl>#point52</styleUrl>
+      <styleUrl>#point45</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -873,7 +775,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>39</name>
-      <styleUrl>#point53</styleUrl>
+      <styleUrl>#point46</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -883,7 +785,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>40</name>
-      <styleUrl>#point54</styleUrl>
+      <styleUrl>#point47</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -893,7 +795,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>44</name>
-      <styleUrl>#point55</styleUrl>
+      <styleUrl>#point48</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -903,7 +805,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>45</name>
-      <styleUrl>#point56</styleUrl>
+      <styleUrl>#point49</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -913,7 +815,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>46</name>
-      <styleUrl>#point57</styleUrl>
+      <styleUrl>#point50</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -923,7 +825,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>47</name>
-      <styleUrl>#point58</styleUrl>
+      <styleUrl>#point51</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -933,7 +835,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>48</name>
-      <styleUrl>#point59</styleUrl>
+      <styleUrl>#point52</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -943,7 +845,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>49</name>
-      <styleUrl>#point60</styleUrl>
+      <styleUrl>#point53</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -953,7 +855,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>50</name>
-      <styleUrl>#point61</styleUrl>
+      <styleUrl>#point54</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -963,7 +865,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>51</name>
-      <styleUrl>#point62</styleUrl>
+      <styleUrl>#point55</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -973,7 +875,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>52</name>
-      <styleUrl>#point63</styleUrl>
+      <styleUrl>#point56</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -983,7 +885,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>53</name>
-      <styleUrl>#point64</styleUrl>
+      <styleUrl>#point57</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -993,7 +895,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>54</name>
-      <styleUrl>#point65</styleUrl>
+      <styleUrl>#point58</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1003,7 +905,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>55</name>
-      <styleUrl>#point66</styleUrl>
+      <styleUrl>#point59</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1013,7 +915,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>56</name>
-      <styleUrl>#point67</styleUrl>
+      <styleUrl>#point60</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1023,7 +925,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>57</name>
-      <styleUrl>#point68</styleUrl>
+      <styleUrl>#point61</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1033,7 +935,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>58</name>
-      <styleUrl>#point69</styleUrl>
+      <styleUrl>#point62</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1043,7 +945,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>43 </name>
-      <styleUrl>#point70</styleUrl>
+      <styleUrl>#point63</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1053,7 +955,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>59</name>
-      <styleUrl>#point71</styleUrl>
+      <styleUrl>#point64</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1063,7 +965,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>60</name>
-      <styleUrl>#point72</styleUrl>
+      <styleUrl>#point65</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1073,7 +975,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>61</name>
-      <styleUrl>#point73</styleUrl>
+      <styleUrl>#point66</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1083,7 +985,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>62</name>
-      <styleUrl>#point74</styleUrl>
+      <styleUrl>#point67</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1093,7 +995,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>63</name>
-      <styleUrl>#point75</styleUrl>
+      <styleUrl>#point68</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1103,7 +1005,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>64</name>
-      <styleUrl>#point76</styleUrl>
+      <styleUrl>#point69</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1113,7 +1015,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>65</name>
-      <styleUrl>#point77</styleUrl>
+      <styleUrl>#point70</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1123,7 +1025,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>66</name>
-      <styleUrl>#point78</styleUrl>
+      <styleUrl>#point71</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1133,7 +1035,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>67</name>
-      <styleUrl>#point79</styleUrl>
+      <styleUrl>#point72</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1143,7 +1045,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>68</name>
-      <styleUrl>#point80</styleUrl>
+      <styleUrl>#point73</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1153,7 +1055,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>69</name>
-      <styleUrl>#point81</styleUrl>
+      <styleUrl>#point74</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1163,7 +1065,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>70</name>
-      <styleUrl>#point82</styleUrl>
+      <styleUrl>#point75</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1173,7 +1075,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>71</name>
-      <styleUrl>#point83</styleUrl>
+      <styleUrl>#point76</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1183,7 +1085,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>72</name>
-      <styleUrl>#point84</styleUrl>
+      <styleUrl>#point77</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1193,7 +1095,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>73</name>
-      <styleUrl>#point85</styleUrl>
+      <styleUrl>#point78</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1203,7 +1105,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>74</name>
-      <styleUrl>#point86</styleUrl>
+      <styleUrl>#point79</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1213,7 +1115,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>75</name>
-      <styleUrl>#point87</styleUrl>
+      <styleUrl>#point80</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1223,7 +1125,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>80</name>
-      <styleUrl>#point88</styleUrl>
+      <styleUrl>#point81</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1233,7 +1135,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>81</name>
-      <styleUrl>#point89</styleUrl>
+      <styleUrl>#point82</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1243,7 +1145,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>82</name>
-      <styleUrl>#point90</styleUrl>
+      <styleUrl>#point83</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1253,7 +1155,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>83</name>
-      <styleUrl>#point91</styleUrl>
+      <styleUrl>#point84</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1263,7 +1165,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>84</name>
-      <styleUrl>#point92</styleUrl>
+      <styleUrl>#point85</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1273,7 +1175,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>85</name>
-      <styleUrl>#point93</styleUrl>
+      <styleUrl>#point86</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1283,7 +1185,7 @@
     <Placemark>
       <description>TEXT_PARCEL</description>
       <name>88</name>
-      <styleUrl>#point94</styleUrl>
+      <styleUrl>#point87</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -8389,214 +8291,6 @@
         <coordinates>
           73.353023336,16.566867046,0
           73.353388798,16.566402121,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354571056,16.572467941,0
-          73.354900772,16.572540363,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354900772,16.572540363,0
-          73.354923823,16.572440327,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354923823,16.572440327,0
-          73.354609135,16.572353057,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354609135,16.572353057,0
-          73.354571056,16.572467941,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355603849,16.571680774,0
-          73.355933564,16.571753194,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355933564,16.571753194,0
-          73.355956615,16.571653158,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355956615,16.571653158,0
-          73.355641928,16.571565890,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355641928,16.571565890,0
-          73.355603849,16.571680774,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356272696,16.571215363,0
-          73.356602410,16.571287783,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356602410,16.571287783,0
-          73.356625460,16.571187747,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356625460,16.571187747,0
-          73.356310773,16.571100480,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356310773,16.571100480,0
-          73.356272696,16.571215363,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357349655,16.570844762,0
-          73.357679370,16.570917179,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357679370,16.570917179,0
-          73.357702419,16.570817143,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357702419,16.570817143,0
-          73.357387732,16.570729878,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line6</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357387732,16.570729878,0
-          73.357349655,16.570844762,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -20297,890 +19991,6 @@
         <coordinates>
           73.357853786,16.569745673,0
           73.357800064,16.569907763,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354576019,16.572452968,0
-          73.354585748,16.572471168,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354584248,16.572428141,0
-          73.354610110,16.572476519,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354592477,16.572403314,0
-          73.354634471,16.572481870,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354600706,16.572378487,0
-          73.354658833,16.572487221,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354608935,16.572353660,0
-          73.354683195,16.572492572,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354633765,16.572359888,0
-          73.354707556,16.572497923,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354659009,16.572366888,0
-          73.354731918,16.572503274,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354684252,16.572373889,0
-          73.354756279,16.572508625,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354709495,16.572380890,0
-          73.354780641,16.572513976,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354734739,16.572387890,0
-          73.354805003,16.572519327,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354759982,16.572394891,0
-          73.354829364,16.572524678,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354785226,16.572401891,0
-          73.354853726,16.572530029,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354810469,16.572408892,0
-          73.354878088,16.572535380,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354835712,16.572415892,0
-          73.354901217,16.572538427,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354860956,16.572422893,0
-          73.354907694,16.572510322,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354886199,16.572429893,0
-          73.354914170,16.572482216,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.354911443,16.572436894,0
-          73.354920646,16.572454111,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355608812,16.571665801,0
-          73.355618542,16.571684001,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355617041,16.571640974,0
-          73.355642903,16.571689352,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355625270,16.571616147,0
-          73.355667265,16.571694703,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355633499,16.571591320,0
-          73.355691626,16.571700053,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355641728,16.571566493,0
-          73.355715988,16.571705404,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355666558,16.571572721,0
-          73.355740349,16.571710755,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355691801,16.571579721,0
-          73.355764711,16.571716106,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355717045,16.571586721,0
-          73.355789072,16.571721457,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355742288,16.571593722,0
-          73.355813434,16.571726808,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355767531,16.571600722,0
-          73.355837796,16.571732159,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355792775,16.571607723,0
-          73.355862157,16.571737510,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355818018,16.571614723,0
-          73.355886519,16.571742861,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355843261,16.571621723,0
-          73.355910880,16.571748212,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355868505,16.571628724,0
-          73.355934010,16.571751259,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355893748,16.571635724,0
-          73.355940486,16.571723153,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355918991,16.571642725,0
-          73.355946963,16.571695047,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.355944235,16.571649725,0
-          73.355953439,16.571666942,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356277658,16.571200391,0
-          73.356287388,16.571218591,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356285887,16.571175564,0
-          73.356311749,16.571223941,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356294116,16.571150737,0
-          73.356336111,16.571229292,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356302345,16.571125910,0
-          73.356360472,16.571234643,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356310573,16.571101083,0
-          73.356384834,16.571239994,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356335404,16.571107310,0
-          73.356409195,16.571245345,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356360647,16.571114311,0
-          73.356433557,16.571250696,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356385890,16.571121311,0
-          73.356457918,16.571256046,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356411133,16.571128311,0
-          73.356482280,16.571261397,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356436377,16.571135312,0
-          73.356506641,16.571266748,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356461620,16.571142312,0
-          73.356531003,16.571272099,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356486863,16.571149312,0
-          73.356555365,16.571277450,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356512107,16.571156312,0
-          73.356579726,16.571282800,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356537350,16.571163313,0
-          73.356602856,16.571285847,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356562593,16.571170313,0
-          73.356609332,16.571257742,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356587837,16.571177313,0
-          73.356615808,16.571229636,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.356613080,16.571184314,0
-          73.356622284,16.571201531,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357354618,16.570829789,0
-          73.357364348,16.570847988,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357362847,16.570804962,0
-          73.357388709,16.570853339,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357371075,16.570780135,0
-          73.357413071,16.570858690,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357379304,16.570755308,0
-          73.357437432,16.570864041,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357387533,16.570730481,0
-          73.357461794,16.570869391,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357412363,16.570736708,0
-          73.357486155,16.570874742,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357437606,16.570743708,0
-          73.357510517,16.570880093,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357462849,16.570750708,0
-          73.357534878,16.570885443,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357488093,16.570757708,0
-          73.357559240,16.570890794,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357513336,16.570764709,0
-          73.357583601,16.570896145,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357538579,16.570771709,0
-          73.357607963,16.570901496,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357563823,16.570778709,0
-          73.357632324,16.570906846,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357589066,16.570785709,0
-          73.357656686,16.570912197,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357614309,16.570792709,0
-          73.357679816,16.570915244,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357639553,16.570799710,0
-          73.357686292,16.570887138,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357664796,16.570806710,0
-          73.357692768,16.570859032,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>OTHERS</description>
-      <styleUrl>#line9</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.357690039,16.570813710,0
-          73.357699243,16.570830927,0
         </coordinates>
       </LineString>
     </Placemark>
