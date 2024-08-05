@@ -11,14 +11,14 @@
   </Style>
   <Style id="line2">
     <LineStyle>
-      <color>FFFFFF00</color>
+      <color>FF00FF00</color>
       <width>1</width>
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line3">
     <LineStyle>
-      <color>FFFF00FF</color>
+      <color>FFFFFF00</color>
       <width>1</width>
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
@@ -126,9 +126,6 @@
   <Style id="point26">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
     <LabelStyle><color>ffff00ff</color></LabelStyle>
-  </Style>
-  <Style id="point27">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
   </Style>
   <Folder>
     <name>SHRIRAMWADI.dwg</name>
@@ -391,16 +388,6 @@
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
         <coordinates>73.5357708781,15.9364118962,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>285</name>
-      <styleUrl>#point27</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.5372024420,15.9366099250,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -729,29 +716,8 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description><![CDATA[VILLAGE BOUNDRY<BR><BR><B>ELEVATION</B> = 0]]></description>
       <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.5354559414,15.9377648275,0
-          73.5357784540,15.9377781472,0
-          73.5361039333,15.9377757456,0
-          73.5364518380,15.9377727779,0
-          73.5371246233,15.9376493920,0
-          73.5379792156,15.9374926602,0
-          73.5388472980,15.9372371640,0
-          73.5393870510,15.9370367448,0
-          73.5400141758,15.9367211859,0
-          73.5401819762,15.9366186406,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -864,8 +830,8 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
+      <description><![CDATA[VILLAGE BOUNDRY<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line2</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -873,6 +839,27 @@
         <coordinates>
           73.5251536260,15.9637614690,0
           73.5263202790,15.9638542930,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line3</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.5354559414,15.9377648275,0
+          73.5357784540,15.9377781472,0
+          73.5361039333,15.9377757456,0
+          73.5364518380,15.9377727779,0
+          73.5371246233,15.9376493920,0
+          73.5379792156,15.9374926602,0
+          73.5388472980,15.9372371640,0
+          73.5393870510,15.9370367448,0
+          73.5400141758,15.9367211859,0
+          73.5401819762,15.9366186406,0
         </coordinates>
       </LineString>
     </Placemark>

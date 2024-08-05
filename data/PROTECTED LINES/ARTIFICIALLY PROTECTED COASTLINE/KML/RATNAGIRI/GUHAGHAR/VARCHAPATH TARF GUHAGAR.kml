@@ -11,14 +11,14 @@
   </Style>
   <Style id="line2">
     <LineStyle>
-      <color>FFFFFF00</color>
+      <color>FF00FF00</color>
       <width>1</width>
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line3">
     <LineStyle>
-      <color>FFFF00FF</color>
+      <color>FFFFFF00</color>
       <width>1</width>
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
@@ -230,9 +230,6 @@
   <Style id="point52">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
     <LabelStyle><color>ffff00ff</color></LabelStyle>
-  </Style>
-  <Style id="point53">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
   </Style>
   <Folder>
     <name>VARCHAPATH TARF GUHAGAR.dwg</name>
@@ -756,16 +753,6 @@ GUHAGAR</name>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
         <coordinates>73.1835732721,17.4889151365,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>210</name>
-      <styleUrl>#point53</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.1752304536,17.5154777300,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1432,27 +1419,8 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description><![CDATA[VILLAGE BOUNDRY<BR><BR><B>ELEVATION</B> = 0]]></description>
       <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.1756703505,17.5167130294,0
-          73.1757930467,17.5164708762,0
-          73.1760952294,17.5160972515,0
-          73.1764361465,17.5157615012,0
-          73.1767793823,17.5154497738,0
-          73.1770314347,17.5151340932,0
-          73.1773192563,17.5146592413,0
-          73.1773366233,17.5146111968,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1599,8 +1567,8 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
+      <description><![CDATA[VILLAGE BOUNDRY<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line2</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1608,6 +1576,25 @@ GUHAGAR</name>
         <coordinates>
           73.1788119880,17.5299906250,0
           73.1803139210,17.5303965790,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line3</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.1756703505,17.5167130294,0
+          73.1757930467,17.5164708762,0
+          73.1760952294,17.5160972515,0
+          73.1764361465,17.5157615012,0
+          73.1767793823,17.5154497738,0
+          73.1770314347,17.5151340932,0
+          73.1773192563,17.5146592413,0
+          73.1773366233,17.5146111968,0
         </coordinates>
       </LineString>
     </Placemark>

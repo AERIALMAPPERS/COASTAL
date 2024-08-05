@@ -11,14 +11,14 @@
   </Style>
   <Style id="line2">
     <LineStyle>
-      <color>FFFFFF00</color>
+      <color>FF00FF00</color>
       <width>1</width>
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line3">
     <LineStyle>
-      <color>FFFF00FF</color>
+      <color>FFFFFF00</color>
       <width>1</width>
     </LineStyle>
     <IconStyle><Icon></Icon></IconStyle>
@@ -122,12 +122,6 @@
   <Style id="point25">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
     <LabelStyle><color>ffff00ff</color></LabelStyle>
-  </Style>
-  <Style id="point26">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point27">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
   </Style>
   <Folder>
     <name>SHELAPI.dwg</name>
@@ -380,26 +374,6 @@
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
         <coordinates>73.5191115706,15.9381917282,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>283</name>
-      <styleUrl>#point26</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.5082199124,15.9414514200,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>284</name>
-      <styleUrl>#point27</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.5154498102,15.9394655029,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -728,51 +702,8 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description><![CDATA[VILLAGE BOUNDRY<BR><BR><B>ELEVATION</B> = 0]]></description>
       <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.5096590002,15.9419036475,0
-          73.5100044194,15.9412955355,0
-          73.5103834478,15.9406282490,0
-          73.5105722612,15.9402958374,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.5171341798,15.9392405018,0
-          73.5171430619,15.9392161686,0
-          73.5171389285,15.9391871254,0
-          73.5171265824,15.9390425373,0
-          73.5171116303,15.9389983230,0
-          73.5170867931,15.9389146676,0
-          73.5170625570,15.9388330366,0
-          73.5170417536,15.9387859084,0
-          73.5170114385,15.9387707821,0
-          73.5169635286,15.9387276994,0
-          73.5169335618,15.9386942048,0
-          73.5169741843,15.9386639090,0
-          73.5169975626,15.9386878517,0
-          73.5170437251,15.9387351288,0
-          73.5170587725,15.9387385524,0
-          73.5170706083,15.9387365121,0
-          73.5170859888,15.9387289988,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -895,8 +826,8 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
+      <description><![CDATA[VILLAGE BOUNDRY<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line2</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -904,6 +835,49 @@
         <coordinates>
           73.5157216390,15.9720838910,0
           73.5166549730,15.9738105850,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line3</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.5096590002,15.9419036475,0
+          73.5100044194,15.9412955355,0
+          73.5103834478,15.9406282490,0
+          73.5105722612,15.9402958374,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[ARTIFICIALLY PROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line3</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.5171341798,15.9392405018,0
+          73.5171430619,15.9392161686,0
+          73.5171389285,15.9391871254,0
+          73.5171265824,15.9390425373,0
+          73.5171116303,15.9389983230,0
+          73.5170867931,15.9389146676,0
+          73.5170625570,15.9388330366,0
+          73.5170417536,15.9387859084,0
+          73.5170114385,15.9387707821,0
+          73.5169635286,15.9387276994,0
+          73.5169335618,15.9386942048,0
+          73.5169741843,15.9386639090,0
+          73.5169975626,15.9386878517,0
+          73.5170437251,15.9387351288,0
+          73.5170587725,15.9387385524,0
+          73.5170706083,15.9387365121,0
+          73.5170859888,15.9387289988,0
         </coordinates>
       </LineString>
     </Placemark>
