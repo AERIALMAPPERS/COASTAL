@@ -7,21 +7,18 @@
       <color>FF999900</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line2">
+    <LineStyle>
+      <color>FF00FF00</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="line3">
     <LineStyle>
       <color>FF0000FF</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
-  </Style>
-  <Style id="line3">
-    <LineStyle>
-      <color>FFFF00FF</color>
-      <width>1</width>
-    </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="point1">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
@@ -255,15 +252,6 @@
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
     <LabelStyle><color>ffff00ff</color></LabelStyle>
   </Style>
-  <Style id="point59">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point60">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
-  <Style id="point61">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
   <Folder>
     <name>Point Features</name>
     <description>Point Features</description>
@@ -274,7 +262,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.357298752,16.605376106,0</coordinates>
+        <coordinates>73.3572987516,16.6053761062,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -284,7 +272,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.350273372,16.613751685,0</coordinates>
+        <coordinates>73.3502733715,16.6137516850,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -294,7 +282,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.349759990,16.612908170,0</coordinates>
+        <coordinates>73.3497599901,16.6129081697,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -304,7 +292,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.349580175,16.612514459,0</coordinates>
+        <coordinates>73.3495801746,16.6125144586,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -314,7 +302,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.350838624,16.612238414,0</coordinates>
+        <coordinates>73.3508386237,16.6122384135,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -324,7 +312,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.350228968,16.612994506,0</coordinates>
+        <coordinates>73.3502289681,16.6129945059,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -334,7 +322,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.347001736,16.614014053,0</coordinates>
+        <coordinates>73.3470017357,16.6140140528,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -344,7 +332,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.346036874,16.613587052,0</coordinates>
+        <coordinates>73.3460368740,16.6135870522,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -354,7 +342,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.345007993,16.612907140,0</coordinates>
+        <coordinates>73.3450079932,16.6129071405,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -364,7 +352,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.344091274,16.611994745,0</coordinates>
+        <coordinates>73.3440912736,16.6119947452,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -374,7 +362,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.343866289,16.611399394,0</coordinates>
+        <coordinates>73.3438662893,16.6113993945,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -384,7 +372,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.343422747,16.611138965,0</coordinates>
+        <coordinates>73.3434227474,16.6111389650,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -394,7 +382,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.342494849,16.610552778,0</coordinates>
+        <coordinates>73.3424948486,16.6105527783,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -404,7 +392,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.341532773,16.608861281,0</coordinates>
+        <coordinates>73.3415327726,16.6088612810,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -414,7 +402,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.341814851,16.609126823,0</coordinates>
+        <coordinates>73.3418148509,16.6091268231,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -424,7 +412,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.340554315,16.608198965,0</coordinates>
+        <coordinates>73.3405543149,16.6081989648,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -434,7 +422,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.339978206,16.607253540,0</coordinates>
+        <coordinates>73.3399782059,16.6072535395,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -444,7 +432,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.340471445,16.607346518,0</coordinates>
+        <coordinates>73.3404714448,16.6073465177,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -454,7 +442,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.339546406,16.607201571,0</coordinates>
+        <coordinates>73.3395464061,16.6072015709,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -464,7 +452,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.338621369,16.607056620,0</coordinates>
+        <coordinates>73.3386213693,16.6070566200,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -474,7 +462,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.337696334,16.606911665,0</coordinates>
+        <coordinates>73.3376963342,16.6069116652,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -484,7 +472,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.336786450,16.606882186,0</coordinates>
+        <coordinates>73.3367864499,16.6068821858,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -494,7 +482,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.336009523,16.606756769,0</coordinates>
+        <coordinates>73.3360095232,16.6067567687,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -504,7 +492,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.335697184,16.606823171,0</coordinates>
+        <coordinates>73.3356971842,16.6068231713,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -514,7 +502,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.336149980,16.605453271,0</coordinates>
+        <coordinates>73.3361499804,16.6054532713,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -524,7 +512,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.335028579,16.608027607,0</coordinates>
+        <coordinates>73.3350285794,16.6080276073,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -534,7 +522,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.334350772,16.608353084,0</coordinates>
+        <coordinates>73.3343507723,16.6083530842,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -544,7 +532,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.333249944,16.608834231,0</coordinates>
+        <coordinates>73.3332499437,16.6088342311,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -554,7 +542,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.332402397,16.609040641,0</coordinates>
+        <coordinates>73.3324023972,16.6090406410,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -564,7 +552,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.331629843,16.609527990,0</coordinates>
+        <coordinates>73.3316298427,16.6095279895,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -574,7 +562,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.329940555,16.609601741,0</coordinates>
+        <coordinates>73.3299405554,16.6096017405,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -584,7 +572,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.328843852,16.609332070,0</coordinates>
+        <coordinates>73.3288438516,16.6093320699,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -594,7 +582,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.328453186,16.608945241,0</coordinates>
+        <coordinates>73.3284531864,16.6089452410,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -604,7 +592,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.327675156,16.608943153,0</coordinates>
+        <coordinates>73.3276751555,16.6089431532,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -614,7 +602,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.326143240,16.608683196,0</coordinates>
+        <coordinates>73.3261432397,16.6086831964,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -624,7 +612,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.324852628,16.607467513,0</coordinates>
+        <coordinates>73.3248526283,16.6074675128,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -634,7 +622,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.324337388,16.606558035,0</coordinates>
+        <coordinates>73.3243373881,16.6065580352,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -644,7 +632,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.324534998,16.606441669,0</coordinates>
+        <coordinates>73.3245349980,16.6064416693,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -654,7 +642,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.324499905,16.606417898,0</coordinates>
+        <coordinates>73.3244999048,16.6064178979,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -664,7 +652,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.324927081,16.605993072,0</coordinates>
+        <coordinates>73.3249270815,16.6059930723,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -674,7 +662,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.324044061,16.607328098,0</coordinates>
+        <coordinates>73.3240440606,16.6073280980,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -684,7 +672,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.322735903,16.608156278,0</coordinates>
+        <coordinates>73.3227359031,16.6081562778,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -694,7 +682,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.321372771,16.608429686,0</coordinates>
+        <coordinates>73.3213727709,16.6084296861,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -704,7 +692,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.319224394,16.606988274,0</coordinates>
+        <coordinates>73.3192243943,16.6069882737,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -714,7 +702,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.319064592,16.605863661,0</coordinates>
+        <coordinates>73.3190645918,16.6058636611,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -724,7 +712,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.319072455,16.606216417,0</coordinates>
+        <coordinates>73.3190724551,16.6062164167,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -734,7 +722,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318415121,16.603924162,0</coordinates>
+        <coordinates>73.3184151209,16.6039241622,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -744,7 +732,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318715332,16.604494778,0</coordinates>
+        <coordinates>73.3187153318,16.6044947782,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -754,7 +742,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318096669,16.603949916,0</coordinates>
+        <coordinates>73.3180966690,16.6039499157,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -764,7 +752,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.317834925,16.603896278,0</coordinates>
+        <coordinates>73.3178349245,16.6038962783,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -774,7 +762,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.316318079,16.602275653,0</coordinates>
+        <coordinates>73.3163180785,16.6022756532,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -784,7 +772,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.316094731,16.601399425,0</coordinates>
+        <coordinates>73.3160947307,16.6013994248,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -794,7 +782,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.317213358,16.599045562,0</coordinates>
+        <coordinates>73.3172133584,16.5990455620,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -804,7 +792,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318513685,16.598730970,0</coordinates>
+        <coordinates>73.3185136853,16.5987309701,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -814,7 +802,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318681144,16.598756998,0</coordinates>
+        <coordinates>73.3186811439,16.5987569979,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -824,7 +812,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318753962,16.598004750,0</coordinates>
+        <coordinates>73.3187539622,16.5980047500,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -834,7 +822,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.318937776,16.598344144,0</coordinates>
+        <coordinates>73.3189377760,16.5983441436,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -844,37 +832,7 @@
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>73.319325956,16.598978528,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>0</description>
-      <name>156</name>
-      <styleUrl>#point59</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.343571013,16.611090537,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>0</description>
-      <name>157</name>
-      <styleUrl>#point60</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.329781008,16.609321933,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description>0</description>
-      <name>158</name>
-      <styleUrl>#point61</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.316870094,16.602964438,0</coordinates>
+        <coordinates>73.3193259558,16.5989785277,0</coordinates>
       </Point>
     </Placemark>
   </Folder>
@@ -889,8 +847,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.352697366,16.612360363,0
-          73.350281425,16.613747063,0
+          73.3526973662,16.6123603631,0
+          73.3502814247,16.6137470627,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -902,8 +860,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.352259126,16.611646497,0
-          73.349768293,16.612903978,0
+          73.3522591259,16.6116464967,0
+          73.3497682929,16.6129039782,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -915,8 +873,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.351481625,16.610505239,0
-          73.349586492,16.612507784,0
+          73.3514816252,16.6105052390,0
+          73.3495864917,16.6125077835,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -928,8 +886,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.348588110,16.610598419,0
-          73.350831147,16.612232965,0
+          73.3485881102,16.6105984191,0
+          73.3508311468,16.6122329651,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -941,8 +899,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.348047815,16.611269578,0
-          73.350221722,16.612988775,0
+          73.3480478153,16.6112695779,0
+          73.3502217217,16.6129887753,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -954,8 +912,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.348118176,16.611516169,0
-          73.347005445,16.614005754,0
+          73.3481181756,16.6115161690,0
+          73.3470054448,16.6140057542,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -967,8 +925,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.347377781,16.611194017,0
-          73.346041329,16.613579102,0
+          73.3473777810,16.6111940172,0
+          73.3460413289,16.6135791019,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -980,8 +938,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.346866152,16.610860617,0
-          73.345014167,16.612900341,0
+          73.3468661524,16.6108606175,0
+          73.3450141665,16.6129003414,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -993,8 +951,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.346455064,16.610510289,0
-          73.344099127,16.611989814,0
+          73.3464550636,16.6105102894,0
+          73.3440991268,16.6119898135,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1006,8 +964,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.345876913,16.609491561,0
-          73.343872969,16.611393056,0
+          73.3458769129,16.6094915613,0
+          73.3438729692,16.6113930562,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1019,8 +977,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.344774872,16.608751818,0
-          73.343427240,16.611131034,0
+          73.3447748724,16.6087518176,0
+          73.3434272395,16.6111310343,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1032,8 +990,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.344140109,16.608343345,0
-          73.342500315,16.610545438,0
+          73.3441401089,16.6083433454,0
+          73.3425003146,16.6105454380,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1045,8 +1003,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.344325361,16.608476779,0
-          73.341542050,16.608860004,0
+          73.3443253611,16.6084767789,0
+          73.3415420503,16.6088600036,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1058,8 +1016,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.343187587,16.606750647,0
-          73.341819412,16.609118929,0
+          73.3431875873,16.6067506470,0
+          73.3418194116,16.6091189288,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1071,8 +1029,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.342900478,16.606688809,0
-          73.340562109,16.608193948,0
+          73.3429004775,16.6066888093,0
+          73.3405621095,16.6081939477,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1084,8 +1042,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.342523748,16.606081464,0
-          73.339986663,16.607249646,0
+          73.3425237485,16.6060814638,0
+          73.3399866629,16.6072496456,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1097,8 +1055,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.340923912,16.604661781,0
-          73.340472948,16.607337598,0
+          73.3409239118,16.6046617812,0
+          73.3404729480,16.6073375984,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1110,8 +1068,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.339998885,16.604516837,0
-          73.339547909,16.607192652,0
+          73.3399988853,16.6045168375,0
+          73.3395479094,16.6071926515,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1123,8 +1081,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.339073861,16.604371890,0
-          73.338622873,16.607047701,0
+          73.3390738605,16.6043718897,0
+          73.3386228726,16.6070477007,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1136,8 +1094,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.338148838,16.604226938,0
-          73.337697838,16.606902746,0
+          73.3381488376,16.6042269380,0
+          73.3376978376,16.6069027458,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1149,8 +1107,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.337196200,16.604191084,0
-          73.336787811,16.606873245,0
+          73.3371961998,16.6041910843,0
+          73.3367878112,16.6068732453,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1162,8 +1120,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.336128456,16.604039239,0
-          73.336009918,16.606747740,0
+          73.3361284562,16.6040392390,0
+          73.3360099183,16.6067477403,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1175,8 +1133,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.334630048,16.604305364,0
-          73.335693639,16.606814806,0
+          73.3346300482,16.6043053640,0
+          73.3356936389,16.6068148065,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1188,8 +1146,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.333841371,16.607016274,0
-          73.336142311,16.605458464,0
+          73.3338413710,16.6070162738,0
+          73.3361423107,16.6054584641,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1201,8 +1159,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.333915394,16.605528404,0
-          73.335024881,16.608019304,0
+          73.3339153944,16.6055284043,0
+          73.3350248811,16.6080193043,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1214,8 +1172,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.332920811,16.606008510,0
-          73.334346022,16.608345295,0
+          73.3329208111,16.6060085103,0
+          73.3343460215,16.6083452950,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1227,8 +1185,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.332318966,16.606266685,0
-          73.333246851,16.608825701,0
+          73.3323189658,16.6062666850,0
+          73.3332468507,16.6088257011,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1240,8 +1198,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.331362898,16.606512108,0
-          73.332398944,16.609032241,0
+          73.3313628975,16.6065121079,0
+          73.3323989437,16.6090322406,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1253,8 +1211,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.330590311,16.606999469,0
-          73.331626389,16.609519589,0
+          73.3305903113,16.6069994687,0
+          73.3316263891,16.6095195892,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1266,8 +1224,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.330427276,16.606922593,0
-          73.329942172,16.609592840,0
+          73.3304272761,16.6069225934,0
+          73.3299421724,16.6095928397,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1279,8 +1237,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.329709164,16.606743260,0
-          73.328846726,16.609323469,0
+          73.3297091642,16.6067432603,0
+          73.3288467264,16.6093234692,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1292,8 +1250,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.328602806,16.606229132,0
-          73.328453683,16.608936217,0
+          73.3286028062,16.6062291315,0
+          73.3284536835,16.6089362174,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1305,8 +1263,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.327509252,16.606227924,0
-          73.327674604,16.608934133,0
+          73.3275092523,16.6062279244,0
+          73.3276746043,16.6089341325,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1318,8 +1276,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.327222523,16.606170216,0
-          73.326146825,16.608674848,0
+          73.3272225233,16.6061702158,0
+          73.3261468254,16.6086748476,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1331,8 +1289,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.327267789,16.606062168,0
-          73.324860652,16.607462844,0
+          73.3272677887,16.6060621684,0
+          73.3248606521,16.6074628439,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1344,8 +1302,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.326883639,16.605387455,0
-          73.324345847,16.606554146,0
+          73.3268836386,16.6053874547,0
+          73.3243458475,16.6065541463,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1357,8 +1315,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.325763319,16.603993142,0
-          73.324539079,16.606433535,0
+          73.3257633187,16.6039931421,0
+          73.3245390788,16.6064335347,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1370,8 +1328,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.324001054,16.603740834,0
-          73.324498247,16.606409004,0
+          73.3240010541,16.6037408342,0
+          73.3244982475,16.6064090040,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1383,8 +1341,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.322225481,16.605210604,0
-          73.324918106,16.605990473,0
+          73.3222254813,16.6052106041,0
+          73.3249181060,16.6059904728,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1396,8 +1354,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.322097350,16.605359680,0
-          73.324037593,16.607321558,0
+          73.3220973497,16.6053596802,0
+          73.3240375931,16.6073215584,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1409,8 +1367,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.321892776,16.605560682,0
-          73.322733102,16.608147655,0
+          73.3218927760,16.6055606819,0
+          73.3227331020,16.6081476546,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1422,8 +1380,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.321440321,16.605710537,0
-          73.321372995,16.608420652,0
+          73.3214403213,16.6057105369,0
+          73.3213729953,16.6084206523,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1435,8 +1393,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.321977128,16.606394123,0
-          73.319233540,16.606986300,0
+          73.3219771278,16.6063941234,0
+          73.3192335396,16.6069862998,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1448,8 +1406,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.321882301,16.605735437,0
-          73.319073953,16.605863235,0
+          73.3218823006,16.6057354365,0
+          73.3190739530,16.6058632352,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1461,8 +1419,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.320857734,16.604110536,0
-          73.319078386,16.606209420,0
+          73.3208577342,16.6041105357,0
+          73.3190783864,16.6062094204,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1474,8 +1432,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.321061481,16.604865868,0
-          73.318423913,16.603927291,0
+          73.3210614814,16.6048658676,0
+          73.3184239127,16.6039272908,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1487,8 +1445,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.320748733,16.602609640,0
-          73.318722087,16.604488515,0
+          73.3207487330,16.6026096398,0
+          73.3187220874,16.6044885154,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1500,8 +1458,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.319988924,16.601932767,0
-          73.318102956,16.603943214,0
+          73.3199889244,16.6019327675,0
+          73.3181029556,16.6039432142,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1513,8 +1471,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.318568359,16.601269901,0
-          73.317837361,16.603887553,0
+          73.3185683591,16.6012699014,0
+          73.3178373612,16.6038875528,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1526,8 +1484,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.319009313,16.601460836,0
-          73.316327020,16.602272946,0
+          73.3190093130,16.6014608358,0
+          73.3163270195,16.6022729462,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1539,8 +1497,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.318786610,16.600586628,0
-          73.316103674,16.601396725,0
+          73.3187866098,16.6005866280,0
+          73.3161036739,16.6013967246,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1552,8 +1510,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.318388618,16.601518162,0
-          73.317217263,16.599053777,0
+          73.3183886182,16.6015181616,0
+          73.3172172629,16.5990537766,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1565,8 +1523,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.318893688,16.601426103,0
-          73.318514948,16.598739924,0
+          73.3188936878,16.6014261032,0
+          73.3185149478,16.5987399241,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1578,8 +1536,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.320468235,16.600861411,0
-          73.318687081,16.598763989,0
+          73.3204682347,16.6008614109,0
+          73.3186870810,16.5987639893,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1591,8 +1549,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.320662390,16.600007650,0
-          73.318760302,16.598011404,0
+          73.3206623902,16.6000076497,0
+          73.3187603024,16.5980114042,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1604,8 +1562,8 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.321756878,16.598436726,0
-          73.318947142,16.598344451,0
+          73.3217568782,16.5984367258,0
+          73.3189471418,16.5983444512,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1617,349 +1575,327 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.320395054,16.596461531,0
-          73.319329508,16.598970166,0
+          73.3203950539,16.5964615310,0
+          73.3193295077,16.5989701656,0
         </coordinates>
       </LineString>
     </Placemark>
     <Placemark>
-      <description>UNPROTECTED</description>
+      <description>VILLAGE BOUNDRY</description>
       <styleUrl>#line2</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.349749470,16.611366639,0
-          73.349747341,16.611367576,0
-          73.349333344,16.611895737,0
-          73.348897638,16.612407932,0
-          73.348616859,16.612679314,0
-          73.348386395,16.612814291,0
-          73.348134990,16.612843866,0
-          73.347573292,16.612765732,0
-          73.346901904,16.612486758,0
-          73.346265935,16.612155465,0
-          73.345718450,16.611693332,0
-          73.345388263,16.611414619,0
-          73.345171345,16.611093498,0
-          73.345059173,16.610803206,0
-          73.344930761,16.610496998,0
-          73.344741256,16.610311325,0
-          73.344294851,16.610043476,0
-          73.343838291,16.609803055,0
-          73.343192409,16.609355913,0
-          73.343008822,16.609117671,0
-          73.342960975,16.608852518,0
-          73.342893878,16.608399463,0
-          73.342749321,16.608066818,0
-          73.342281937,16.607815786,0
-          73.341798405,16.607538312,0
-          73.341408591,16.606975266,0
-          73.341199294,16.606552654,0
-          73.341059518,16.606298969,0
-          73.340885953,16.606166041,0
-          73.340816242,16.606018150,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>UNPROTECTED</description>
-      <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.337304142,16.605569488,0
-          73.337269826,16.605571493,0
-          73.336638937,16.605482183,0
-          73.336325133,16.605403904,0
-          73.335809922,16.605382940,0
-          73.335468761,16.605439142,0
-          73.335091864,16.605587660,0
-          73.334907486,16.605695631,0
-          73.334818685,16.605863296,0
-          73.334817234,16.606031665,0
-          73.334947023,16.606175821,0
-          73.335076523,16.606353654,0
-          73.335042777,16.606489777,0
-          73.334921623,16.606562729,0
-          73.334503554,16.606760015,0
-          73.334003219,16.606967209,0
-          73.333274269,16.607380550,0
-          73.332494054,16.607643567,0
-          73.332060727,16.607703449,0
-          73.331708937,16.607837907,0
-          73.331432800,16.608094408,0
-          73.331267537,16.608198683,0
-          73.331034855,16.608287620,0
-          73.330590762,16.608326296,0
-          73.329999934,16.608226505,0
-          73.329512182,16.608106155,0
-          73.329058685,16.607965228,0
-          73.328993542,16.607896069,0
-          73.328825544,16.607683520,0
-          73.328715927,16.607592286,0
-          73.328349031,16.607573496,0
-          73.327883429,16.607564469,0
-          73.327395029,16.607592214,0
-          73.327022787,16.607557538,0
-          73.326600478,16.607388912,0
-          73.326415871,16.607197349,0
-          73.326189101,16.606962033,0
-          73.325787958,16.606321098,0
-          73.325588744,16.605918219,0
-          73.325505755,16.605699398,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description>UNPROTECTED</description>
-      <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.323520136,16.605766356,0
-          73.323501542,16.605826042,0
-          73.323307243,16.606120153,0
-          73.322937236,16.606460365,0
-          73.322812029,16.606575488,0
-          73.322504918,16.606796190,0
-          73.321823794,16.607001889,0
-          73.321510946,16.607068003,0
-          73.321164981,16.607060013,0
-          73.320968277,16.607000347,0
-          73.320777736,16.606861527,0
-          73.320609244,16.606707050,0
-          73.320556437,16.606479587,0
-          73.320558272,16.606268404,0
-          73.320484517,16.605929888,0
-          73.320470556,16.605644661,0
-          73.320427635,16.605409932,0
-          73.320209709,16.605270896,0
-          73.319978960,16.605168568,0
-          73.319701462,16.604949846,0
-          73.319653487,16.604796338,0
-          73.319688604,16.604537905,0
-          73.319817538,16.604201033,0
-          73.319857440,16.604021837,0
-          73.319870369,16.603794905,0
-          73.319811585,16.603625469,0
-          73.319578050,16.603391263,0
-          73.319382214,16.603231283,0
-          73.318957437,16.602860798,0
-          73.318712214,16.602710976,0
-          73.318187477,16.602574733,0
-          73.317937369,16.602356230,0
-          73.317753097,16.602127703,0
-          73.317641044,16.601783600,0
-          73.317578586,16.601402586,0
-          73.317423860,16.600926139,0
-          73.317398120,16.600735855,0
-          73.317449355,16.600514509,0
-          73.317599043,16.600376078,0
-          73.318126998,16.600142755,0
-          73.318658854,16.600088974,0
-          73.319114076,16.600029295,0
-          73.319427188,16.599931507,0
-          73.319592669,16.599800845,0
-          73.319599390,16.599658342,0
-          73.319524216,16.599483498,0
-          73.319487198,16.599330079,0
-          73.319521074,16.599214193,0
-          73.319681494,16.599035972,0
-          73.319935445,16.598810986,0
-          73.320150275,16.598675447,0
-          73.320300286,16.598558451,0
-          73.320350728,16.598426860,0
-          73.320357999,16.598221003,0
-          73.320294055,16.598014565,0
-          73.320152863,16.597870867,0
-          73.319902079,16.597731566,0
-          73.319710996,16.597656100,0
-          73.319498274,16.597489070,0
-          73.319357414,16.597308413,0
-          73.319233578,16.597059254,0
-          73.319137071,16.596865079,0
-          73.319096422,16.596418298,0
-          73.319059964,16.596201524,0
-          73.318941695,16.595941852,0
-          73.318877661,16.595745977,0
-          73.318901362,16.595540247,0
-          73.318991170,16.595292820,0
-          73.319289121,16.595047069,0
-          73.319558678,16.594917248,0
-          73.319735257,16.594770836,0
-          73.319802129,16.594461928,0
-          73.319742469,16.594267142,0
-          73.319665126,16.594089110,0
-          73.319499629,16.593969502,0
-          73.319395781,16.593816601,0
-          73.319389362,16.593546216,0
-          73.319655159,16.593218895,0
-          73.319877713,16.592823642,0
-          73.320143434,16.592504766,0
-          73.320654846,16.592154082,0
-          73.321387936,16.591833193,0
+          73.3648070000,16.6104950000,0
+          73.3655230000,16.6101800000,0
+          73.3666790000,16.6098080000,0
+          73.3678230000,16.6095850000,0
+          73.3687910000,16.6095200000,0
+          73.3689490000,16.6093750000,0
+          73.3689910000,16.6091790000,0
+          73.3710410000,16.6062650000,0
+          73.3712720000,16.6056600000,0
+          73.3716420000,16.6050430000,0
+          73.3717610000,16.6041830000,0
+          73.3717650000,16.6029120000,0
+          73.3723920000,16.6011190000,0
+          73.3723540000,16.6004290000,0
+          73.3722150000,16.5999390000,0
+          73.3718020000,16.5993930000,0
+          73.3701240000,16.5969350000,0
+          73.3693800000,16.5960010000,0
+          73.3694090000,16.5965750000,0
+          73.3670670000,16.5959610000,0
+          73.3657930000,16.5956730000,0
+          73.3661180000,16.5939730000,0
+          73.3650220000,16.5940350000,0
+          73.3649950000,16.5942290000,0
+          73.3641980000,16.5951970000,0
+          73.3625900000,16.5956500000,0
+          73.3623520000,16.5956700000,0
+          73.3617870000,16.5953370000,0
+          73.3606390000,16.5950310000,0
+          73.3595620000,16.5951870000,0
+          73.3589470000,16.5956110000,0
+          73.3587630000,16.5955200000,0
+          73.3575100000,16.5959360000,0
+          73.3565550000,16.5959460000,0
+          73.3562060000,16.5960800000,0
+          73.3562520000,16.5968060000,0
+          73.3561730000,16.5971520000,0
+          73.3558150000,16.5974380000,0
+          73.3535710000,16.5968350000,0
+          73.3526350000,16.5966760000,0
+          73.3525620000,16.5968730000,0
+          73.3516520000,16.5962570000,0
+          73.3508680000,16.5946790000,0
+          73.3499360000,16.5951030000,0
+          73.3494260000,16.5955540000,0
+          73.3487700000,16.5957210000,0
+          73.3480060000,16.5956340000,0
+          73.3476890000,16.5950780000,0
+          73.3473760000,16.5947920000,0
+          73.3468370000,16.5936800000,0
+          73.3462630000,16.5933220000,0
+          73.3460310000,16.5928360000,0
+          73.3458190000,16.5929550000,0
+          73.3458900000,16.5934300000,0
+          73.3462690000,16.5944280000,0
+          73.3465530000,16.5958100000,0
+          73.3459830000,16.5963360000,0
+          73.3467120000,16.5973440000,0
+          73.3467140000,16.5977320000,0
+          73.3464890000,16.5981920000,0
+          73.3467840000,16.6009390000,0
+          73.3472700000,16.6013080000,0
+          73.3476420000,16.6020480000,0
+          73.3478650000,16.6029310000,0
+          73.3477330000,16.6033830000,0
+          73.3478700000,16.6037730000,0
+          73.3477400000,16.6046650000,0
+          73.3481570000,16.6040270000,0
+          73.3486960000,16.6035630000,0
+          73.3492010000,16.6028970000,0
+          73.3493950000,16.6024280000,0
+          73.3497710000,16.6023970000,0
+          73.3495690000,16.6009990000,0
+          73.3502030000,16.5992040000,0
+          73.3498050000,16.5988690000,0
+          73.3503960000,16.5981160000,0
+          73.3504080000,16.5975600000,0
+          73.3508770000,16.5966440000,0
+          73.3511980000,16.5970840000,0
+          73.3509050000,16.5975380000,0
+          73.3513160000,16.5993060000,0
+          73.3507670000,16.6003360000,0
+          73.3509070000,16.6008330000,0
+          73.3514240000,16.6016000000,0
+          73.3517030000,16.6018790000,0
+          73.3534580000,16.6011840000,0
+          73.3538230000,16.6014290000,0
+          73.3536340000,16.6027340000,0
+          73.3533950000,16.6029180000,0
+          73.3526630000,16.6029990000,0
+          73.3509570000,16.6038000000,0
+          73.3507980000,16.6038090000,0
+          73.3504350000,16.6058190000,0
+          73.3493450000,16.6059850000,0
+          73.3488610000,16.6057760000,0
+          73.3477860000,16.6063670000,0
+          73.3480300000,16.6071590000,0
+          73.3480190000,16.6077210000,0
+          73.3488900000,16.6091350000,0
+          73.3496430000,16.6095160000,0
+          73.3506660000,16.6095590000,0
+          73.3513370000,16.6090250000,0
+          73.3518010000,16.6070420000,0
+          73.3524620000,16.6061030000,0
+          73.3528590000,16.6053130000,0
+          73.3528760000,16.6048910000,0
+          73.3533160000,16.6044400000,0
+          73.3535240000,16.6046280000,0
+          73.3533740000,16.6056710000,0
+          73.3531380000,16.6062850000,0
+          73.3526510000,16.6067140000,0
+          73.3523590000,16.6075110000,0
+          73.3524610000,16.6079330000,0
+          73.3534570000,16.6074790000,0
+          73.3535410000,16.6077960000,0
+          73.3528740000,16.6079300000,0
+          73.3528790000,16.6082240000,0
+          73.3519350000,16.6100170000,0
+          73.3522160000,16.6106810000,0
+          73.3534190000,16.6117530000,0
+          73.3535810000,16.6120760000,0
+          73.3537010000,16.6119990000,0
+          73.3542640000,16.6115320000,0
+          73.3546770000,16.6116240000,0
+          73.3549480000,16.6114830000,0
+          73.3554340000,16.6115800000,0
+          73.3566790000,16.6114340000,0
+          73.3582820000,16.6104490000,0
+          73.3594630000,16.6103340000,0
+          73.3617170000,16.6106260000,0
+          73.3634400000,16.6108130000,0
+          73.3644180000,16.6104890000,0
         </coordinates>
       </LineString>
     </Placemark>
     <Placemark>
       <description>0</description>
+      <styleUrl>#line2</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.3644180000,16.6104890000,0
+          73.3648070000,16.6104950000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>UNPROTECTED</description>
       <styleUrl>#line3</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.364807000,16.610495000,0
-          73.365523000,16.610180000,0
-          73.366679000,16.609808000,0
-          73.367823000,16.609585000,0
-          73.368791000,16.609520000,0
-          73.368949000,16.609375000,0
-          73.368991000,16.609179000,0
-          73.371041000,16.606265000,0
-          73.371272000,16.605660000,0
-          73.371642000,16.605043000,0
-          73.371761000,16.604183000,0
-          73.371765000,16.602912000,0
-          73.372392000,16.601119000,0
-          73.372354000,16.600429000,0
-          73.372215000,16.599939000,0
-          73.371802000,16.599393000,0
-          73.370124000,16.596935000,0
-          73.369380000,16.596001000,0
-          73.369409000,16.596575000,0
-          73.367067000,16.595961000,0
-          73.365793000,16.595673000,0
-          73.366118000,16.593973000,0
-          73.365022000,16.594035000,0
-          73.364995000,16.594229000,0
-          73.364198000,16.595197000,0
-          73.362590000,16.595650000,0
-          73.362352000,16.595670000,0
-          73.361787000,16.595337000,0
-          73.360639000,16.595031000,0
-          73.359562000,16.595187000,0
-          73.358947000,16.595611000,0
-          73.358763000,16.595520000,0
-          73.357510000,16.595936000,0
-          73.356555000,16.595946000,0
-          73.356206000,16.596080000,0
-          73.356252000,16.596806000,0
-          73.356173000,16.597152000,0
-          73.355815000,16.597438000,0
-          73.353571000,16.596835000,0
-          73.352635000,16.596676000,0
-          73.352562000,16.596873000,0
-          73.351652000,16.596257000,0
-          73.350868000,16.594679000,0
-          73.349936000,16.595103000,0
-          73.349426000,16.595554000,0
-          73.348770000,16.595721000,0
-          73.348006000,16.595634000,0
-          73.347689000,16.595078000,0
-          73.347376000,16.594792000,0
-          73.346837000,16.593680000,0
-          73.346263000,16.593322000,0
-          73.346031000,16.592836000,0
-          73.345819000,16.592955000,0
-          73.345890000,16.593430000,0
-          73.346269000,16.594428000,0
-          73.346553000,16.595810000,0
-          73.345983000,16.596336000,0
-          73.346712000,16.597344000,0
-          73.346714000,16.597732000,0
-          73.346489000,16.598192000,0
-          73.346784000,16.600939000,0
-          73.347270000,16.601308000,0
-          73.347642000,16.602048000,0
-          73.347865000,16.602931000,0
-          73.347733000,16.603383000,0
-          73.347870000,16.603773000,0
-          73.347740000,16.604665000,0
-          73.348157000,16.604027000,0
-          73.348696000,16.603563000,0
-          73.349201000,16.602897000,0
-          73.349395000,16.602428000,0
-          73.349771000,16.602397000,0
-          73.349569000,16.600999000,0
-          73.350203000,16.599204000,0
-          73.349805000,16.598869000,0
-          73.350396000,16.598116000,0
-          73.350408000,16.597560000,0
-          73.350877000,16.596644000,0
-          73.351198000,16.597084000,0
-          73.350905000,16.597538000,0
-          73.351316000,16.599306000,0
-          73.350767000,16.600336000,0
-          73.350907000,16.600833000,0
-          73.351424000,16.601600000,0
-          73.351703000,16.601879000,0
-          73.353458000,16.601184000,0
-          73.353823000,16.601429000,0
-          73.353634000,16.602734000,0
-          73.353395000,16.602918000,0
-          73.352663000,16.602999000,0
-          73.350957000,16.603800000,0
-          73.350798000,16.603809000,0
-          73.350435000,16.605819000,0
-          73.349345000,16.605985000,0
-          73.348861000,16.605776000,0
-          73.347786000,16.606367000,0
-          73.348030000,16.607159000,0
-          73.348019000,16.607721000,0
-          73.348890000,16.609135000,0
-          73.349643000,16.609516000,0
-          73.350666000,16.609559000,0
-          73.351337000,16.609025000,0
-          73.351801000,16.607042000,0
-          73.352462000,16.606103000,0
-          73.352859000,16.605313000,0
-          73.352876000,16.604891000,0
-          73.353316000,16.604440000,0
-          73.353524000,16.604628000,0
-          73.353374000,16.605671000,0
-          73.353138000,16.606285000,0
-          73.352651000,16.606714000,0
-          73.352359000,16.607511000,0
-          73.352461000,16.607933000,0
-          73.353457000,16.607479000,0
-          73.353541000,16.607796000,0
-          73.352874000,16.607930000,0
-          73.352879000,16.608224000,0
-          73.351935000,16.610017000,0
-          73.352216000,16.610681000,0
-          73.353419000,16.611753000,0
-          73.353581000,16.612076000,0
-          73.353701000,16.611999000,0
-          73.354264000,16.611532000,0
-          73.354677000,16.611624000,0
-          73.354948000,16.611483000,0
-          73.355434000,16.611580000,0
-          73.356679000,16.611434000,0
-          73.358282000,16.610449000,0
-          73.359463000,16.610334000,0
-          73.361717000,16.610626000,0
-          73.363440000,16.610813000,0
-          73.364418000,16.610489000,0
+          73.3497494697,16.6113666393,0
+          73.3497473412,16.6113675761,0
+          73.3493333437,16.6118957370,0
+          73.3488976380,16.6124079324,0
+          73.3486168588,16.6126793135,0
+          73.3483863952,16.6128142907,0
+          73.3481349901,16.6128438655,0
+          73.3475732918,16.6127657319,0
+          73.3469019038,16.6124867581,0
+          73.3462659352,16.6121554651,0
+          73.3457184496,16.6116933318,0
+          73.3453882630,16.6114146192,0
+          73.3451713448,16.6110934980,0
+          73.3450591733,16.6108032060,0
+          73.3449307613,16.6104969980,0
+          73.3447412557,16.6103113254,0
+          73.3442948510,16.6100434761,0
+          73.3438382907,16.6098030546,0
+          73.3431924090,16.6093559127,0
+          73.3430088220,16.6091176709,0
+          73.3429609747,16.6088525177,0
+          73.3428938783,16.6083994628,0
+          73.3427493209,16.6080668176,0
+          73.3422819375,16.6078157860,0
+          73.3417984054,16.6075383118,0
+          73.3414085912,16.6069752658,0
+          73.3411992935,16.6065526544,0
+          73.3410595183,16.6062989690,0
+          73.3408859534,16.6061660409,0
+          73.3408162423,16.6060181498,0
         </coordinates>
       </LineString>
     </Placemark>
     <Placemark>
-      <description>0</description>
+      <description>UNPROTECTED</description>
       <styleUrl>#line3</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
-          73.364418000,16.610489000,0
-          73.364807000,16.610495000,0
+          73.3373041416,16.6055694879,0
+          73.3372698261,16.6055714934,0
+          73.3366389370,16.6054821835,0
+          73.3363251327,16.6054039040,0
+          73.3358099222,16.6053829401,0
+          73.3354687612,16.6054391423,0
+          73.3350918638,16.6055876602,0
+          73.3349074865,16.6056956309,0
+          73.3348186847,16.6058632955,0
+          73.3348172339,16.6060316652,0
+          73.3349470233,16.6061758213,0
+          73.3350765227,16.6063536545,0
+          73.3350427766,16.6064897775,0
+          73.3349216230,16.6065627294,0
+          73.3345035544,16.6067600152,0
+          73.3340032188,16.6069672094,0
+          73.3332742694,16.6073805498,0
+          73.3324940537,16.6076435675,0
+          73.3320607268,16.6077034495,0
+          73.3317089370,16.6078379074,0
+          73.3314328001,16.6080944083,0
+          73.3312675371,16.6081986833,0
+          73.3310348554,16.6082876195,0
+          73.3305907622,16.6083262957,0
+          73.3299999340,16.6082265055,0
+          73.3295121817,16.6081061547,0
+          73.3290586852,16.6079652281,0
+          73.3289935420,16.6078960691,0
+          73.3288255442,16.6076835202,0
+          73.3287159274,16.6075922864,0
+          73.3283490309,16.6075734962,0
+          73.3278834295,16.6075644692,0
+          73.3273950289,16.6075922136,0
+          73.3270227874,16.6075575382,0
+          73.3266004781,16.6073889120,0
+          73.3264158710,16.6071973491,0
+          73.3261891006,16.6069620335,0
+          73.3257879581,16.6063210978,0
+          73.3255887441,16.6059182188,0
+          73.3255057549,16.6056993975,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>UNPROTECTED</description>
+      <styleUrl>#line3</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.3235201359,16.6057663563,0
+          73.3235015424,16.6058260422,0
+          73.3233072434,16.6061201528,0
+          73.3229372356,16.6064603646,0
+          73.3228120287,16.6065754883,0
+          73.3225049181,16.6067961899,0
+          73.3218237936,16.6070018892,0
+          73.3215109464,16.6070680034,0
+          73.3211649812,16.6070600127,0
+          73.3209682774,16.6070003468,0
+          73.3207777356,16.6068615268,0
+          73.3206092435,16.6067070504,0
+          73.3205564365,16.6064795867,0
+          73.3205582718,16.6062684042,0
+          73.3204845166,16.6059298882,0
+          73.3204705558,16.6056446613,0
+          73.3204276346,16.6054099321,0
+          73.3202097093,16.6052708958,0
+          73.3199789600,16.6051685677,0
+          73.3197014620,16.6049498457,0
+          73.3196534872,16.6047963376,0
+          73.3196886039,16.6045379052,0
+          73.3198175383,16.6042010326,0
+          73.3198574397,16.6040218371,0
+          73.3198703690,16.6037949046,0
+          73.3198115851,16.6036254695,0
+          73.3195780502,16.6033912632,0
+          73.3193822139,16.6032312835,0
+          73.3189574370,16.6028607976,0
+          73.3187122135,16.6027109759,0
+          73.3181874766,16.6025747327,0
+          73.3179373691,16.6023562305,0
+          73.3177530974,16.6021277026,0
+          73.3176410445,16.6017835998,0
+          73.3175785857,16.6014025863,0
+          73.3174238597,16.6009261392,0
+          73.3173981203,16.6007358550,0
+          73.3174493551,16.6005145091,0
+          73.3175990429,16.6003760782,0
+          73.3181269976,16.6001427545,0
+          73.3186588543,16.6000889736,0
+          73.3191140765,16.6000292955,0
+          73.3194271878,16.5999315068,0
+          73.3195926692,16.5998008451,0
+          73.3195993905,16.5996583424,0
+          73.3195242157,16.5994834985,0
+          73.3194871975,16.5993300789,0
+          73.3195210738,16.5992141933,0
+          73.3196814941,16.5990359716,0
+          73.3199354446,16.5988109865,0
+          73.3201502749,16.5986754467,0
+          73.3203002863,16.5985584513,0
+          73.3203507283,16.5984268596,0
+          73.3203579992,16.5982210025,0
+          73.3202940549,16.5980145649,0
+          73.3201528629,16.5978708672,0
+          73.3199020793,16.5977315658,0
+          73.3197109962,16.5976560999,0
+          73.3194982744,16.5974890696,0
+          73.3193574136,16.5973084132,0
         </coordinates>
       </LineString>
     </Placemark>

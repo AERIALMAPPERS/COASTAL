@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-7"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:globalmapper="https://www.bluemarblegeo.com/globalmapper">
 <Document>
   <!-- Begin Style Definitions -->
@@ -7,21 +7,18 @@
       <color>FF999900</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line2">
+    <LineStyle>
+      <color>FF00FF00</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="line3">
     <LineStyle>
       <color>FF0000FF</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
-  </Style>
-  <Style id="line3">
-    <LineStyle>
-      <color>FFFF00FF</color>
-      <width>1</width>
-    </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="point1">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
@@ -231,14 +228,11 @@
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
     <LabelStyle><color>ffff00ff</color></LabelStyle>
   </Style>
-  <Style id="point53">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
   <Folder>
-    <name>VARCHAPATH TARF GUHAGAR.dwg</name>
-    <description>VARCHAPATH TARF GUHAGAR.dwg</description>
+    <name>Point Features</name>
+    <description>Point Features</description>
     <Placemark>
-      <description><![CDATA[VILLAGE NAME<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>VILLAGE NAME</description>
       <name>VARCHAPATH TARF
 GUHAGAR</name>
       <styleUrl>#point1</styleUrl>
@@ -249,7 +243,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410100.00 M</name>
       <styleUrl>#point2</styleUrl>
       <Point>
@@ -259,7 +253,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410200.00 M</name>
       <styleUrl>#point3</styleUrl>
       <Point>
@@ -269,7 +263,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410300.00 M</name>
       <styleUrl>#point4</styleUrl>
       <Point>
@@ -279,7 +273,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410400.00 M</name>
       <styleUrl>#point5</styleUrl>
       <Point>
@@ -289,7 +283,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410500.00 M</name>
       <styleUrl>#point6</styleUrl>
       <Point>
@@ -299,7 +293,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410600.00 M</name>
       <styleUrl>#point7</styleUrl>
       <Point>
@@ -309,7 +303,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410700.00 M</name>
       <styleUrl>#point8</styleUrl>
       <Point>
@@ -319,7 +313,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410800.00 M</name>
       <styleUrl>#point9</styleUrl>
       <Point>
@@ -329,7 +323,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH410900.00 M</name>
       <styleUrl>#point10</styleUrl>
       <Point>
@@ -339,7 +333,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411000.00 M</name>
       <styleUrl>#point11</styleUrl>
       <Point>
@@ -349,7 +343,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411100.00 M</name>
       <styleUrl>#point12</styleUrl>
       <Point>
@@ -359,7 +353,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411200.00 M</name>
       <styleUrl>#point13</styleUrl>
       <Point>
@@ -369,7 +363,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411300.00 M</name>
       <styleUrl>#point14</styleUrl>
       <Point>
@@ -379,7 +373,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411400.00 M</name>
       <styleUrl>#point15</styleUrl>
       <Point>
@@ -389,7 +383,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411500.00 M</name>
       <styleUrl>#point16</styleUrl>
       <Point>
@@ -399,7 +393,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411600.00 M</name>
       <styleUrl>#point17</styleUrl>
       <Point>
@@ -409,7 +403,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411700.00 M</name>
       <styleUrl>#point18</styleUrl>
       <Point>
@@ -419,7 +413,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411800.00 M</name>
       <styleUrl>#point19</styleUrl>
       <Point>
@@ -429,7 +423,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH411900.00 M</name>
       <styleUrl>#point20</styleUrl>
       <Point>
@@ -439,7 +433,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412000.00 M</name>
       <styleUrl>#point21</styleUrl>
       <Point>
@@ -449,7 +443,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412100.00 M</name>
       <styleUrl>#point22</styleUrl>
       <Point>
@@ -459,7 +453,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412200.00 M</name>
       <styleUrl>#point23</styleUrl>
       <Point>
@@ -469,7 +463,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412300.00 M</name>
       <styleUrl>#point24</styleUrl>
       <Point>
@@ -479,7 +473,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412400.00 M</name>
       <styleUrl>#point25</styleUrl>
       <Point>
@@ -489,7 +483,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412500.00 M</name>
       <styleUrl>#point26</styleUrl>
       <Point>
@@ -499,7 +493,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412600.00 M</name>
       <styleUrl>#point27</styleUrl>
       <Point>
@@ -509,7 +503,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412700.00 M</name>
       <styleUrl>#point28</styleUrl>
       <Point>
@@ -519,7 +513,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412800.00 M</name>
       <styleUrl>#point29</styleUrl>
       <Point>
@@ -529,7 +523,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH412900.00 M</name>
       <styleUrl>#point30</styleUrl>
       <Point>
@@ -539,7 +533,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413000.00 M</name>
       <styleUrl>#point31</styleUrl>
       <Point>
@@ -549,7 +543,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413100.00 M</name>
       <styleUrl>#point32</styleUrl>
       <Point>
@@ -559,7 +553,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413200.00 M</name>
       <styleUrl>#point33</styleUrl>
       <Point>
@@ -569,7 +563,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413300.00 M</name>
       <styleUrl>#point34</styleUrl>
       <Point>
@@ -579,7 +573,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413400.00 M</name>
       <styleUrl>#point35</styleUrl>
       <Point>
@@ -589,7 +583,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413500.00 M</name>
       <styleUrl>#point36</styleUrl>
       <Point>
@@ -599,7 +593,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413600.00 M</name>
       <styleUrl>#point37</styleUrl>
       <Point>
@@ -609,7 +603,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413700.00 M</name>
       <styleUrl>#point38</styleUrl>
       <Point>
@@ -619,7 +613,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413800.00 M</name>
       <styleUrl>#point39</styleUrl>
       <Point>
@@ -629,7 +623,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH413900.00 M</name>
       <styleUrl>#point40</styleUrl>
       <Point>
@@ -639,7 +633,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414000.00 M</name>
       <styleUrl>#point41</styleUrl>
       <Point>
@@ -649,7 +643,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414100.00 M</name>
       <styleUrl>#point42</styleUrl>
       <Point>
@@ -659,7 +653,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414200.00 M</name>
       <styleUrl>#point43</styleUrl>
       <Point>
@@ -669,7 +663,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414300.00 M</name>
       <styleUrl>#point44</styleUrl>
       <Point>
@@ -679,7 +673,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414400.00 M</name>
       <styleUrl>#point45</styleUrl>
       <Point>
@@ -689,7 +683,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414500.00 M</name>
       <styleUrl>#point46</styleUrl>
       <Point>
@@ -699,7 +693,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414600.00 M</name>
       <styleUrl>#point47</styleUrl>
       <Point>
@@ -709,7 +703,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414700.00 M</name>
       <styleUrl>#point48</styleUrl>
       <Point>
@@ -719,7 +713,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414800.00 M</name>
       <styleUrl>#point49</styleUrl>
       <Point>
@@ -729,7 +723,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH414900.00 M</name>
       <styleUrl>#point50</styleUrl>
       <Point>
@@ -739,7 +733,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH415000.00 M</name>
       <styleUrl>#point51</styleUrl>
       <Point>
@@ -749,7 +743,7 @@ GUHAGAR</name>
       </Point>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CSMark<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CSMark</description>
       <name>CH415100.00 M</name>
       <styleUrl>#point52</styleUrl>
       <Point>
@@ -758,18 +752,12 @@ GUHAGAR</name>
         <coordinates>73.1835732721,17.4889151365,0</coordinates>
       </Point>
     </Placemark>
+  </Folder>
+  <Folder>
+    <name>Line Features</name>
+    <description>Line Features</description>
     <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>104</name>
-      <styleUrl>#point53</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.1649703092,17.5249590198,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -782,7 +770,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -795,7 +783,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -808,7 +796,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -821,7 +809,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -834,7 +822,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -847,7 +835,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -860,7 +848,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -873,7 +861,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -886,7 +874,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -899,7 +887,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -912,7 +900,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -925,7 +913,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -938,7 +926,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -951,7 +939,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -964,7 +952,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -977,7 +965,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -990,7 +978,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1003,7 +991,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1016,7 +1004,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1029,7 +1017,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1042,7 +1030,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1055,7 +1043,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1068,7 +1056,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1081,7 +1069,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1094,7 +1082,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1107,7 +1095,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1120,7 +1108,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1133,7 +1121,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1146,7 +1134,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1159,7 +1147,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1172,7 +1160,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1185,7 +1173,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1198,7 +1186,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1211,7 +1199,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1224,7 +1212,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1237,7 +1225,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1250,7 +1238,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1263,7 +1251,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1276,7 +1264,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1289,7 +1277,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1302,7 +1290,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1315,7 +1303,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1328,7 +1316,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1341,7 +1329,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1354,7 +1342,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1367,7 +1355,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1380,7 +1368,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1393,7 +1381,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1406,7 +1394,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1419,7 +1407,7 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[CS<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>CS</description>
       <styleUrl>#line1</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1432,69 +1420,8 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[UNPROTECTED<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <description>VILLAGE BOUNDRY</description>
       <styleUrl>#line2</styleUrl>
-      <LineString>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <tessellate>1</tessellate>
-        <coordinates>
-          73.1626759517,17.5301126327,0
-          73.1626915246,17.5300446423,0
-          73.1626939589,17.5298029247,0
-          73.1626690413,17.5295047032,0
-          73.1627017397,17.5292032290,0
-          73.1627910425,17.5290081394,0
-          73.1629960645,17.5288162248,0
-          73.1633215364,17.5285680233,0
-          73.1636704368,17.5282852775,0
-          73.1639459229,17.5280919120,0
-          73.1643000919,17.5277960764,0
-          73.1645014829,17.5276235511,0
-          73.1648340748,17.5273386289,0
-          73.1650448093,17.5272032202,0
-          73.1652766101,17.5270931874,0
-          73.1655050413,17.5269910227,0
-          73.1657329728,17.5269378316,0
-          73.1659133001,17.5268668195,0
-          73.1660783722,17.5267613169,0
-          73.1662595883,17.5266018329,0
-          73.1663758283,17.5263485309,0
-          73.1665163441,17.5261396915,0
-          73.1666779738,17.5258368221,0
-          73.1668666415,17.5254277694,0
-          73.1671585983,17.5249175843,0
-          73.1674439999,17.5245568225,0
-          73.1676092705,17.5243743827,0
-          73.1677932088,17.5242718037,0
-          73.1680129486,17.5242137936,0
-          73.1681483719,17.5241834466,0
-          73.1682182078,17.5241208920,0
-          73.1682554913,17.5240185353,0
-          73.1682757195,17.5238085830,0
-          73.1682548723,17.5235987965,0
-          73.1682609595,17.5234850929,0
-          73.1683349006,17.5233419958,0
-          73.1683743802,17.5231843624,0
-          73.1684145460,17.5228189423,0
-          73.1684378561,17.5224668194,0
-          73.1684834348,17.5222041813,0
-          73.1686129039,17.5219462557,0
-          73.1687928764,17.5217456782,0
-          73.1689232656,17.5215958713,0
-          73.1690334663,17.5214515308,0
-          73.1691509264,17.5212408947,0
-          73.1694489043,17.5206420268,0
-          73.1697577387,17.5202435569,0
-          73.1699994015,17.5199708699,0
-          73.1702431083,17.5197049519,0
-          73.1704029527,17.5195426337,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1641,8 +1568,8 @@ GUHAGAR</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <description><![CDATA[0<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#line3</styleUrl>
+      <description>VILLAGE BOUNDRY</description>
+      <styleUrl>#line2</styleUrl>
       <LineString>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -1650,6 +1577,54 @@ GUHAGAR</name>
         <coordinates>
           73.1788119880,17.5299906250,0
           73.1803139210,17.5303965790,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>UNPROTECTED</description>
+      <styleUrl>#line3</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          73.1650448093,17.5272032202,0
+          73.1652766101,17.5270931874,0
+          73.1655050413,17.5269910227,0
+          73.1657329728,17.5269378316,0
+          73.1659133001,17.5268668195,0
+          73.1660783722,17.5267613169,0
+          73.1662595883,17.5266018329,0
+          73.1663758283,17.5263485309,0
+          73.1665163441,17.5261396915,0
+          73.1666779738,17.5258368221,0
+          73.1668666415,17.5254277694,0
+          73.1671585983,17.5249175843,0
+          73.1674439999,17.5245568225,0
+          73.1676092705,17.5243743827,0
+          73.1677932088,17.5242718037,0
+          73.1680129486,17.5242137936,0
+          73.1681483719,17.5241834466,0
+          73.1682182078,17.5241208920,0
+          73.1682554913,17.5240185353,0
+          73.1682757195,17.5238085830,0
+          73.1682548723,17.5235987965,0
+          73.1682609595,17.5234850929,0
+          73.1683349006,17.5233419958,0
+          73.1683743802,17.5231843624,0
+          73.1684145460,17.5228189423,0
+          73.1684378561,17.5224668194,0
+          73.1684834348,17.5222041813,0
+          73.1686129039,17.5219462557,0
+          73.1687928764,17.5217456782,0
+          73.1689232656,17.5215958713,0
+          73.1690334663,17.5214515308,0
+          73.1691509264,17.5212408947,0
+          73.1694489043,17.5206420268,0
+          73.1697577387,17.5202435569,0
+          73.1699994015,17.5199708699,0
+          73.1702431083,17.5197049519,0
+          73.1704029527,17.5195426337,0
         </coordinates>
       </LineString>
     </Placemark>
