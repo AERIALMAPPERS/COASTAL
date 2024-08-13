@@ -78,7 +78,6 @@
   </Style>
   <Style id="point1">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-    <LabelStyle><color>ff0000ff</color></LabelStyle>
   </Style>
   <Style id="point2">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
@@ -107,25 +106,13 @@
   <Style id="point10">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
   </Style>
-  <Style id="point11">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-  </Style>
   <Folder>
-    <name>USARNI.dwg</name>
-    <description>USARNI.dwg</description>
-    <Placemark>
-      <description><![CDATA[SYM_LOGO<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <styleUrl>#point1</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>70.5158758792,0.0076194049,0</coordinates>
-      </Point>
-    </Placemark>
+    <name>USARANI.dwg</name>
+    <description>USARANI.dwg</description>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Mouje Mayakyachi Shiv</name>
-      <styleUrl>#point2</styleUrl>
+      <styleUrl>#point1</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -135,7 +122,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Mouje Bhadvyachi shiv</name>
-      <styleUrl>#point3</styleUrl>
+      <styleUrl>#point2</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -145,7 +132,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Mouje Chtalyavhi shiv</name>
-      <styleUrl>#point4</styleUrl>
+      <styleUrl>#point3</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -155,7 +142,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Mouje Dahisarchi shiv</name>
-      <styleUrl>#point5</styleUrl>
+      <styleUrl>#point4</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -165,7 +152,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Mouje Khatalichi Shiv</name>
-      <styleUrl>#point6</styleUrl>
+      <styleUrl>#point5</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -175,7 +162,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Mouje Dandechi Shiv</name>
-      <styleUrl>#point7</styleUrl>
+      <styleUrl>#point6</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -185,7 +172,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>sea</name>
-      <styleUrl>#point8</styleUrl>
+      <styleUrl>#point7</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -195,7 +182,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>sea</name>
-      <styleUrl>#point9</styleUrl>
+      <styleUrl>#point8</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -205,7 +192,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPIN<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>talav</name>
-      <styleUrl>#point10</styleUrl>
+      <styleUrl>#point9</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -215,7 +202,7 @@
     <Placemark>
       <description><![CDATA[TEXT_MAPIN<BR><BR><B>ELEVATION</B> = 0]]></description>
       <name>Gavthan</name>
-      <styleUrl>#point11</styleUrl>
+      <styleUrl>#point10</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
