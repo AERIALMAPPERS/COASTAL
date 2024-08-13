@@ -2,40 +2,46 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:globalmapper="https://www.bluemarblegeo.com/globalmapper">
 <Document>
   <!-- Begin Style Definitions -->
+  <Style id="area1">
+    <LineStyle>
+      <color>FF0000FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF0000FF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
   <Style id="line1">
     <LineStyle>
       <color>FF000000</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line2">
     <LineStyle>
       <color>FF000000</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line3">
     <LineStyle>
       <color>FFFFFF00</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line4">
     <LineStyle>
       <color>FF0000FF</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="line5">
     <LineStyle>
       <color>FFFF00FF</color>
       <width>1</width>
     </LineStyle>
-    <IconStyle><Icon></Icon></IconStyle>
   </Style>
   <Style id="point1">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
@@ -288,37 +294,37 @@
     <description>POPHARAN.dwg</description>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE BEGNICHI SHIV</name>
+      <name>Mouje Begnichi Shiv</name>
       <styleUrl>#point1</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>72.6985604797,19.8387413279,0</coordinates>
+        <coordinates>72.6985535361,19.8374153402,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE PDRVALI CHI SHIV</name>
+      <name>Mouje DanbhatChi Shiv</name>
       <styleUrl>#point2</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>72.6970198625,19.8242025180,0</coordinates>
+        <coordinates>72.6830348799,19.8185983800,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE AKARPATTICHI SHIV</name>
+      <name>Mouje Akarpattichi Shiv</name>
       <styleUrl>#point3</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>72.6744048277,19.8267306876,0</coordinates>
+        <coordinates>72.6768668636,19.8314734194,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE DHIVALICHI SHIV</name>
+      <name>Mouje Dhivlichi Shiv</name>
       <styleUrl>#point4</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -328,7 +334,7 @@
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE TARAPURCHI SHIV</name>
+      <name>Mouje Tarapurchi shiv</name>
       <styleUrl>#point5</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1068,7 +1074,7 @@
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPIN<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>TALAV</name>
+      <name>Talav</name>
       <styleUrl>#point79</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -1088,23 +1094,42 @@
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE POPHRANCHI SHIV</name>
+      <name>Mouje Pophranchi Shiv</name>
       <styleUrl>#point81</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>72.6899797914,19.8197069489,0</coordinates>
+        <coordinates>72.6913163821,19.8196951646,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <description><![CDATA[TEXT_MAPOUT<BR><BR><B>ELEVATION</B> = 0]]></description>
-      <name>MOUJE PDRVALICHI SHIV</name>
+      <name>Mouje Padarvadichiv Shiv</name>
       <styleUrl>#point82</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
-        <coordinates>72.6963755843,19.8158852650,0</coordinates>
+        <coordinates>72.6963697648,19.8142278532,0</coordinates>
       </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[SYM_STONE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#area1</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              72.6898088292,19.8139818103,0
+              72.6898555147,19.8139858139,0
+              72.6898493992,19.8140496883,0
+              72.6898027137,19.8140456848,0
+              72.6898088292,19.8139818103,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
     </Placemark>
     <Placemark>
       <description><![CDATA[V_BOUND_LINE<BR><BR><B>ELEVATION</B> = 0]]></description>
@@ -4325,8 +4350,47 @@
         <extrude>0</extrude>
         <tessellate>1</tessellate>
         <coordinates>
+          72.6671155311,19.8209705842,0
+          72.6664317235,19.8212225720,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[V_DIVIDE_LINE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line2</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
           72.6960542842,19.8193525527,0
           72.6961543970,19.8187624484,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[V_DIVIDE_LINE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line2</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.6983826887,19.8325471419,0
+          72.6991470345,19.8324788937,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[V_DIVIDE_LINE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line2</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.6891774142,19.8393504051,0
+          72.6888640743,19.8399300566,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -4418,6 +4482,58 @@
         <coordinates>
           72.6830131447,19.8217286217,0
           72.6830069034,19.8213567985,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[SYM_STONE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line4</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.6898493992,19.8140496883,0
+          72.6898555147,19.8139858139,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[SYM_STONE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line4</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.6898555147,19.8139858139,0
+          72.6898088292,19.8139818103,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[SYM_STONE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line4</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.6898088292,19.8139818103,0
+          72.6898027137,19.8140456848,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[SYM_STONE<BR><BR><B>ELEVATION</B> = 0]]></description>
+      <styleUrl>#line4</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>0</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.6898027137,19.8140456848,0
+          72.6898493992,19.8140496883,0
         </coordinates>
       </LineString>
     </Placemark>
