@@ -44,6 +44,7 @@
       <button onclick="zoomIn()">A+</button>
       |
       <span id="liveDate"></span> 
+      <div id="google_translate_element"></div>
     </div>
 
   <!-- HEADING -->
@@ -134,7 +135,7 @@
                         <input type="checkbox" name="checkbox10"> Unprotected Coastline
                     </label>
                     <label>
-                        <input type="checkbox" name="checkbox11">Vurnalable Coastline
+                        <input type="checkbox" name="checkbox11">Vulnarability Coastline
                     </label>
                     <label>
                         <input type="checkbox" name="checkbox12"> High Tide Line
@@ -156,24 +157,28 @@
                     </label>
                   
                     <label>
-                        <input type="checkbox" name="checkbox18">Sand Dane
+                        <input type="checkbox" name="checkbox18">Sand Dune
                     </label>
                     <label>
-                        <input type="checkbox" name="checkbox19">Ecosensative zone</label>
-                    <label>
-                        <input type="checkbox" name="checkbox20">Mangrove Buffer Zone
+                        <input type="checkbox" name="checkbox19">Ecosensitive zone
                     </label>
                     <label>
-                        <input type="checkbox" name="checkbox21">DGPS Control Point
+                        <input type="checkbox" name="checkbox20">Mangrooves
                     </label>
                     <label>
-                        <input type="checkbox" name="checkbox22">Piller Location
+                        <input type="checkbox" name="checkbox21">Buffer Zone
                     </label>
                     <label>
-                        <input type="checkbox" name="checkbox23">Ferry Location
+                        <input type="checkbox" name="checkbox22">DGPS Control Point
                     </label>
                     <label>
-                        <input type="checkbox" name="checkbox24">Year wise Coastline
+                        <input type="checkbox" name="checkbox23">Piller Location
+                    </label>
+                    <label>
+                        <input type="checkbox" name="checkbox24">Ferry Location
+                    </label>
+                    <label>
+                        <input type="checkbox" name="checkbox25">Year wise Coastline
                     </label>
                 </form>
             </div>
@@ -222,38 +227,62 @@
   <script src="https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js"></script>
 
   <!-- Custom Script -->
-  <!-- <script src="./js/data.js"></script> -->
+
+  <script src="./js/translate.js"></script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <script src="./js/liveDate.js"></script>
   <script src="./js/zoomInOut.js"></script>
-  <!-- <script src="./js/kml_plugin.js"></script> -->
-  <!-- <script src="./js/kml.js"></script> -->
-  <!-- <script src="./js/Pro.js"></script> -->
   <script src="./js/project.js"></script>
-  <!-- <script src="./js/EXTRA.JS"></script> -->
-  <!-- <script src="./js/new.js"></script> -->
+ 
   <!-- <script src="./js/updateData.js"></script> -->
 
 <a href="./data/REEL.kml"></a>
 
   <a href="./data/MANGALWEDA.kml"></a>
-  <a href="./data/CHAINAGE/DWG/SINDHUDURG/VENGURLA/GAVATALE.dwg"></a>
-  <a href="./data/CHAINAGE/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
-  <a href="./data/VILLAGE MAP/DWG/SINDHUDURG/VENGURLA/KARLI.dwg"></a>
-  <a href="./data/VILLAGE MAP/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
-  <a href="./data/PROTECTED LINES/ARTIFICIALLY PROTECTED COASTLINE/DWG/SINDHUDURG/VENGURLA/KARLI.dwg"></a>
-  <a href="./data/PROTECTED LINES/ARTIFICIALLY PROTECTED COASTLINE/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
-  <a href="./data/PROTECTED LINES/NATURALLY PROTECTED COASTLINE/DWG/SINDHUDURG/VENGURLA/KARLI.dwg"></a>
-  <a href="./data/PROTECTED LINES/NATURALLY PROTECTED COASTLINE/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
-  <a href="./data/PROTECTED LINES/UNPROTECTED COASTLINE/DWG/SINDHUDURG/VENGURLA/KARLI.dwg"></a>
-  <a href="./data/PROTECTED LINES/UNPROTECTED COASTLINE/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
-  <a href="./data/TIDE LINES/HIGH TIDE/DWG/RATNAGIRI/RATNAGIRI/b.dwg"></a>
-  <a href="./data/TIDE LINES/HIGH TIDE/KML/RATNAGIRI/DAPOLI/VA"></a>
-  <a href="./data/TIDE LINES/LOW TIDE/DWG/RATNAGIRI/RATNAGIRI/BHANDARWADI.dwg"></a>
-  <a href="./data/TIDE LINES/LOW TIDE/KML/RATNAGIRI/RATNAGIRI/b.kml"></a>
-  <a href="./data/SEAWALL/DWG/SINDHUDURG/VENGURLA/KARLI.dwg "></a>
-  <a href="./data/SEAWALL/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
-  <a href="./data/FERRY LOCATION/DWG/SINDHUDURG/Malvan/MALWAN(MCI).dwg"></a>
-  <a href="./data/FERRY LOCATION/KML/SINDHUDURG/MALVAN/MALWAN(MCI).kml"></a>
+  <a href="./data/CHAINAGE/DWG/MUMBAI/ANDHERI/BANDRA.dwg"></a>
+  <a href="./data/CHAINAGE/KML/MUMBAI/ANDHERI/BANDRA.kml"></a>
+  <a href="./data/VILLAGE MAP/DWG/RATNAGIRI/RAJAPUR/TULSUDEWADI.dwg"></a>
+  <a href="./data/VILLAGE MAP/KML/SINDHUDURG/VENGURLA/SIDHHARTHWADI.kml"></a>
+
+  <a href="./data/PROTECTED LINES/ARTIFICIALLY PROTECTED COASTLINE/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg "></a>
+  <a href="./data/PROTECTED LINES/ARTIFICIALLY PROTECTED COASTLINE/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml "></a>
+  <a href="./data/PROTECTED LINES/NATURALLY PROTECTED COASTLINE/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg "></a>
+  <a href="./data/PROTECTED LINES/NATURALLY PROTECTED COASTLINE/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml "></a>
+  <a href="./data/PROTECTED LINES/UNPROTECTED COASTLINE/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg "></a>
+  <a href="./data/PROTECTED LINES/UNPROTECTED COASTLINE/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml "></a>
+
+  <a href="./data/TIDE LINES/HIGH TIDE/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg"></a>
+  <a href="./data/TIDE LINES/HIGH TIDE/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml"></a>
+  <a href="./data/TIDE LINES/LOW TIDE/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg"></a>
+  <a href="./data/TIDE LINES/LOW TIDE/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml"></a>
+
+  <a href="./data/SEAWALL/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg"></a>
+  <a href="./data/SEAWALL/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml"></a>
+
+  <a href="./data/FERRY LOCATION/DWG/MUMBAI SUBURBAN/ANDHERI/ANDHERI WEST.dwg"></a>
+  <a href="./data/FERRY LOCATION/KML/S"></a>
+
+  <a href="./data/PILLAR LOCATION/DWG/SINDHUDURG/VENGURLA/GAVATALE.dwg"></a>
+  <a href="./data/PILLAR LOCATION/KML/SINDHUDURG/VENGURLA/GAVATALE.kml"></a>
+    
+  <a href="./data/SAND DUNE/DWG/SINDHUDURG/VENGURLA/UBHADANDA.dwg"></a>
+  <a href="./data/SAND DUNE/KML/SINDHUDURG/VENGURLA/UBHADANDA.kml"></a>
+
+  <a href="./data/HAZARDS LINE/DWG/SINDHUDURG/VENGURLA/KARLI.dwg"></a>
+  <a href="./data/HAZARDS LINE/KML/SINDHUDURG/VENGURLA/KARLI.kml"></a>
+
+  <a href="./data/BUND/DWG/MUMBAI/MUMBAI CITY/MUMBAI CITY.dwg"></a>
+  <a href="./data/BUND/KML/MUMBAI/MUMBAI CITY/MUMBAI CITY.kml"></a>
+
+  <a href="./data/ECOLOGICALLY SENSITIVE AREA/DWG/RATNAGIRI/GUHAGHAR/VARCHAPATH TARF GUHAGAR.dwg"></a>
+  <a href="./data/ECOLOGICALLY SENSITIVE AREA/KML/RATNAGIRI/GUHAGHAR/VARCHAPATH TARF GUHAGAR.kml"></a>
+
+  <a href="./data/VILLAGE WISE TOPOPLAN/1. BORDI.dwg"></a>
+  <a href="./data/VILLAGE WISE TOPOPLAN/ZAI.kml"></a>
+
+  <a href="./data/ADEE.kml"></a>
+
+  <a href="./data/MANGROOVES/UTHAN.kml"></a>
 
     <footer>
       <div class="footer-container">
@@ -271,7 +300,7 @@
           <h3><a href="./features.html">Features</a></h3>
           <ul>
             <li>Advanced Equipment</li>
-            <li>Team of Expert</li>
+            <li>Team of Expert</li>S
             <li>99% accuracy</li>
             <li>5x faster Dilivary</li>
             <li>one to one Support</li>
